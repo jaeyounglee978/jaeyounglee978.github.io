@@ -14,7 +14,7 @@ title:  "최병윤 Choi Byungyoon"
 2013-2014
 
 : [동경공업대학][titech], 학사 교환학생 \\
-[쿠마자와 연구실][kumazawa] 소속
+[熊澤研究室][kumazawa] 소속
 
 2011-2015
 
@@ -37,7 +37,7 @@ title:  "최병윤 Choi Byungyoon"
 : [**Global Game Jam**][ggj] 프로젝트 \\
 [RITUAL, the Board Game][ggj2016] for GGJ 2016 at [5MINLAB][ggj2016loc] \\
 <small>게임 기획. Team Silver Medal</small>\\
-[Dungeon Commander for][ggj2015] GGJ 2015 at [5MINLAB][ggj2015loc] \\
+[Dungeon Commander][ggj2015] for GGJ 2015 at [5MINLAB][ggj2015loc] \\
 <small>게임 기획, 프로그래밍. Team Greetings, Commander</small> \\
 [ENABLER (tentative)][ggj2014] for GGJ 2014 at [Shinjuku][ggj2014loc] \\
 <small>게임 기획, 서브 프로그래밍, 사운드 엔지니어. Team NIKKAN</small> \\
@@ -66,6 +66,12 @@ title:  "최병윤 Choi Byungyoon"
 [mmo]: https://bitbucket.org/haje/mmo
 [glitch]: http://haje.org/projects/glitch/index
 *[HAJE]: 한국과학기술원 게임개발 동아리
+
+### 기타 경력
+
+2013
+
+: 한국과학기술원 전산학과 학생회 부회장 
 
 ### 출판
 
