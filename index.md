@@ -67,12 +67,6 @@ title:  "최병윤 Choi Byungyoon"
 [glitch]: http://haje.org/projects/glitch/index
 *[HAJE]: 한국과학기술원 게임개발 동아리
 
-### 기타 경력
-
-2013
-
-: 한국과학기술원 전산학과 학생회 부회장 
-
 ### 출판
 
 2016
