@@ -11,6 +11,11 @@ title:  "최병윤 Choi Byungyoon"
 : [한국과학기술원][kaist], 공학석사 \\
 [Scalable Graphics/Geometric Algorithm Lab.][sgga] 소속
 
+2013-2014
+
+: [동경공업대학][titech], 학사 교환학생 \\
+[쿠마자와 연구실][kumazawa] 소속
+
 2011-2015
 
 : 한국과학기술원, 공학학사
@@ -21,6 +26,8 @@ title:  "최병윤 Choi Byungyoon"
 
 [kaist]: http://www.kaist.ac.kr/
 [sgga]: http://sgga.kaist.ac.kr/
+[titech]: http://www.titech.ac.jp/
+[kumazawa]: http://kuma2.isl.titech.ac.jp/
 [ksa]: https://ksa.hs.kr/
 
 ### 프로젝트 경력
