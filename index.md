@@ -40,7 +40,7 @@ title:  "최병윤 Choi Byungyoon"
 [Dungeon Commander][ggj2015] for GGJ 2015 at [5MINLAB][ggj2015loc] \\
 <small>게임 기획, 프로그래밍. Team Greetings, Commander</small> \\
 [ENABLER (tentative)][ggj2014] for GGJ 2014 at [Shinjuku][ggj2014loc] \\
-<small>게임 기획, 서브 프로그래밍, 사운드 엔지니어. Team NIKKAN</small> \\
+<small>게임 기획, 서브 프로그래밍, 사운드 엔지니어링. Team NIKKAN</small> \\
 [Solidheart][ggj2013] for GGJ 2013 at [Seogang Univ.][ggj2013loc] \\
 <small>게임 기획, 프로그래밍. Team HANDAXE</small> 
 
@@ -58,9 +58,9 @@ title:  "최병윤 Choi Byungyoon"
 
 : [**HAJE**][hajehp] 프로젝트\\
 [Project MMO][mmo], 2015 \\
-<small>그래픽스 프로그래머</small> \\
+<small>그래픽스 프로그래밍</small> \\
 [Glitch][glitch], 2011 \\
-<small>게임 기획, 사운드 엔지니어</small>
+<small>게임 기획, 사운드 엔지니어링</small>
 
 [hajehp]: http://haje.org/
 [mmo]: https://bitbucket.org/haje/mmo
