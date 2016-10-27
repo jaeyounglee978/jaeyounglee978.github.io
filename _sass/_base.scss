@@ -202,3 +202,14 @@ pre {
         }
     }
 }
+
+/**
+ * Definition Lists
+ */
+dl dt {
+    float: left;
+    font-weight: bold;
+}
+dl dd {
+    margin-left: 7.5em;
+}
