@@ -9,6 +9,5 @@ twitter_username: kevincby_
 github_username:  byungyoonc
 
 # Build settings
-highlighter: true
 markdown: kramdown
 permalink: pretty

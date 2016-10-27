@@ -3,7 +3,7 @@ layout: post
 title:  "최병윤 Choi Byungyoon"
 ---
 
-###교육
+### 교육
 
 2015-2017
 
