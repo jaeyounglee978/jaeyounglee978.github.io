@@ -109,8 +109,8 @@
 
 .footer-col-wrapper {
     font-size: 15px;
+    margin-left: 0.25em;
     color: $grey-color;
-    margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
 
@@ -233,4 +233,8 @@
             font-size: 18px;
         }
     }
+}
+
+.username {
+    margin-right: 0.5em;
 }
