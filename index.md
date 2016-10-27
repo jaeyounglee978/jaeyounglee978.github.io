@@ -3,7 +3,6 @@ layout: post
 title:  "최병윤 Choi Byungyoon"
 ---
 
-
 ### 교육
 
 2015-2017
@@ -44,6 +43,14 @@ title:  "최병윤 Choi Byungyoon"
 [Solidheart][ggj2013] for GGJ 2013 at [Seogang Univ.][ggj2013loc] \\
 <small>게임 기획, 프로그래밍. Team HANDAXE</small> 
 
+2011-2015
+
+: [**HAJE**][hajehp] 프로젝트\\
+[Project MMO][mmo], 2015 \\
+<small>그래픽스 프로그래밍</small> \\
+[Glitch][glitch], 2011 \\
+<small>게임 기획, 사운드 엔지니어링</small>
+
 [ggj]: http://globalgamejam.org/
 [ggj2016]: http://globalgamejam.org/2016/games/ritual-board-game
 [ggj2015]: http://globalgamejam.org/2015/games/dungeon-commander
@@ -53,15 +60,6 @@ title:  "최병윤 Choi Byungyoon"
 [ggj2015loc]: http://globalgamejam.org/2015/jam-sites/ggj-seoul-5minlab
 [ggj2014loc]: http://globalgamejam.org/2014/jam-sites/ggjshinggj2014%E6%96%B0%E5%AE%BF%EF%BC%89
 [ggj2013loc]: http://2013.globalgamejam.org/sites/2013/ggj-seoul-seogang-univ
-
-2011-2015
-
-: [**HAJE**][hajehp] 프로젝트\\
-[Project MMO][mmo], 2015 \\
-<small>그래픽스 프로그래밍</small> \\
-[Glitch][glitch], 2011 \\
-<small>게임 기획, 사운드 엔지니어링</small>
-
 [hajehp]: http://haje.org/
 [mmo]: https://bitbucket.org/haje/mmo
 [glitch]: http://haje.org/projects/glitch/index
