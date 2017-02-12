@@ -115,4 +115,4 @@ title:  "Choi Byungyoon's CV Page"
 2016
 
 : **Byungyoon Choi**, Sung-eui Yoon. (2016.7). Artistic Editing of Refractive Index Distributions for Mirage Image Generation. 한국컴퓨터그래픽스학회, 129-130. \\
-**Chœ Byung-yoon**. (2016.8). Wrapping Low-level Graphics Library for Interactive Appliation. Proceedings of SSCC 1st, 33-40.
+**Chœ Byung-yoon**. (2016.8). Wrapping Low-level Graphics Library for Interactive Application. Proceedings of SSCC 1st, 33-40.
