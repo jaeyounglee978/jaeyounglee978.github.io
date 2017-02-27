@@ -50,21 +50,21 @@ title:  "Choi Byungyoon's CV Page"
 
 ### 교육
 
-2015-2017
+2015&ndash;2017
 
 : [한국과학기술원][kaist], 공학석사 \\
 [Scalable Graphics/Geometric Algorithm Lab.][sgga] 소속
 
-2013-2014
+2013&ndash;2014
 
 : [동경공업대학][titech], 학사 교환학생 \\
 [熊澤研究室][kumazawa] 소속
 
-2011-2015
+2011&ndash;2015
 
 : 한국과학기술원, 공학학사
 
-2008-2011
+2008&ndash;2011
 
 : [KAIST부설 한국과학영재학교][ksa]
 
@@ -76,7 +76,7 @@ title:  "Choi Byungyoon's CV Page"
 
 ### 취업
 
-2017-
+2017&ndash;
 
 : [넥슨][nexon], 프로그래머 \\
 [devCAT][devCAT] 소속
@@ -86,7 +86,7 @@ title:  "Choi Byungyoon's CV Page"
 
 ### 프로젝트 경력
 
-2013-2016
+2013&ndash;2016
 
 : [**Global Game Jam**][ggj] 프로젝트 \\
 [RITUAL, the Board Game][ggj2016] for GGJ 2016 at [5MINLAB][ggj2016loc] \\
@@ -98,7 +98,7 @@ title:  "Choi Byungyoon's CV Page"
 [Solidheart][ggj2013] for GGJ 2013 at [Seogang Univ.][ggj2013loc] \\
 <small>게임 기획, 프로그래밍. Team HANDAXE</small> 
 
-2011-2015
+2011&ndash;2015
 
 : [**HAJE**][hajehp] 프로젝트\\
 [Project MMO][mmo], 2015 \\
