@@ -74,6 +74,16 @@ title:  "Choi Byungyoon's CV Page"
 [kumazawa]: http://kuma2.isl.titech.ac.jp/
 [ksa]: https://ksa.hs.kr/
 
+### 취업
+
+2017-
+
+: [넥슨][nexon], 프로그래머 \\
+[devCAT][devCAT] 소속
+
+[nexon]: http://www.nexon.com/
+[devCAT]: http://devcat.nexon.com/
+
 ### 프로젝트 경력
 
 2013-2016
