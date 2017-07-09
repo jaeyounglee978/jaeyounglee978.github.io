@@ -79,7 +79,7 @@ title:  "Choi Byungyoon's CV Page"
 2017&ndash;
 
 : [넥슨][nexon], 프로그래머 \\
-[devCAT][devCAT] 소속
+[devCAT][devCAT] Team MM 소속
 
 [nexon]: http://www.nexon.com/
 [devCAT]: http://devcat.nexon.com/
