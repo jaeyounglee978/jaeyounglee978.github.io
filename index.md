@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Choi Byungyoon's CV Page"
+title:  "Jaeyoung Lee CV"
 ---
 
 <header class="post-header">
-  <h1 class="post-title">최병윤 <span class="nobreak-container">Choi Byungyoon</span></h1>
+  <h1 class="post-title">이재영 <span class="nobreak-container">Lee Jae Young</span></h1>
   <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   <div class="footer-col-wrapper">
   <a href="mailto:{{ site.email }}" class="nobreak-container">
@@ -32,19 +32,12 @@ title:  "Choi Byungyoon's CV Page"
     </span>
     <span class="username">{{ site.twitter_username }}</span>
   </a>
-  <a href="https://www.facebook.com/choi.byungyoon" class="nobreak-container">
+  <a href="https://www.facebook.com/jaeyoung.lee.758" class="nobreak-container">
     <span class="icon  icon--twitter">
       <svg viewBox="0 0 33 33" width="25" height="25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M 17.996,32L 12,32 L 12,16 l-4,0 l0-5.514 l 4-0.002l-0.006-3.248C 11.993,2.737, 13.213,0, 18.512,0l 4.412,0 l0,5.515 l-2.757,0 c-2.063,0-2.163,0.77-2.163,2.209l-0.008,2.76l 4.959,0 l-0.585,5.514L 18,16L 17.996,32z"></path></g></svg>
     </span>
-    <span class="username">choi.byungyoon</span>
+    <span class="username">jaeyoung lee</span>
   </a>
-  <a href="https://soundcloud.com/exci" class="nobreak-container">
-    <span class="icon  icon--twitter">
-      <svg viewBox="0 0 33 33" width="25" height="25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M 27.874,16.069c-0.565,0-1.105,0.11-1.596,0.308C 25.95,12.803, 22.831,10, 19.028,10 c-0.931,0-1.834,0.176-2.635,0.474c-0.311,0.116-0.393,0.235-0.393,0.466l0,12.585 c0,0.243, 0.195,0.445, 0.441,0.469 C 16.452,23.994, 27.802,24, 27.875,24C 30.154,24, 32,22.224, 32,20.035S 30.152,16.069, 27.874,16.069zM 12.5,24L 13.5,24L 14,16.993L 13.5,10L 12.5,10L 12,16.993 zM 9.5,24L 8.5,24L 8,18.914L 8.5,14L 9.5,14L 10,19 zM 4.5,24L 5.5,24L 6,20L 5.5,16L 4.5,16L 4,20 zM 0.5,22L 1.5,22L 2,20L 1.5,18L 0.5,18L0,20 z"></path></g></svg>
-    </span>
-    <span class="username">EXCITECH</span>
-  </a>
-  </div>
 </header>
 
 
