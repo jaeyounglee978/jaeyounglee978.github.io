@@ -38,6 +38,7 @@ title:  "Jaeyoung Lee CV"
     </span>
     <span class="username">jaeyoung lee</span>
   </a>
+  </div>
 </header>
 
 
