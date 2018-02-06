@@ -50,7 +50,7 @@ title:  "Jaeyoung Lee CV"
 
 2010&ndash;2012
 
-: [수지고등학교][sjhs]
+: [수지고등학교][sjhs] 졸업
 
 [kaist]: http://www.kaist.ac.kr/
 [sjhs]: http://www.suji.hs.kr/main.php
@@ -61,47 +61,31 @@ title:  "Jaeyoung Lee CV"
 
 2016&ndash;&2017
 
-: 카이스트 게임개발동아리 ~하제~ 회장
+: 카이스트 게임개발동아리 ~하제~ 회장 \\
 
-### 프로젝트 경력
+### 개인 프로젝트
 
-2013&ndash;2016
+2018
 
-: [**Global Game Jam**][ggj] 프로젝트 \\
-[RITUAL, the Board Game][ggj2016] for GGJ 2016 at [5MINLAB][ggj2016loc] \\
-<small>게임 기획. Team Silver Medal</small>\\
-[Dungeon Commander][ggj2015] for GGJ 2015 at [5MINLAB][ggj2015loc] \\
-<small>게임 기획, 프로그래밍. Team Greetings, Commander</small> \\
-[ENABLER (tentative)][ggj2014] for GGJ 2014 at [Shinjuku][ggj2014loc] \\
-<small>게임 기획, 서브 프로그래밍, 사운드 엔지니어링. Team NIKKAN</small> \\
-[Solidheart][ggj2013] for GGJ 2013 at [Seogang Univ.][ggj2013loc] \\
-<small>게임 기획, 프로그래밍. Team HANDAXE</small> 
+: \\
 
-2011&ndash;2015
 
-: [**HAJE**][hajehp] 프로젝트\\
-[Project MMO][mmo], 2015 \\
-<small>그래픽스 프로그래밍</small> \\
-[Glitch][glitch], 2011 \\
-<small>게임 기획, 사운드 엔지니어링</small>
+2017
 
-[ggj]: http://globalgamejam.org/
-[ggj2016]: http://globalgamejam.org/2016/games/ritual-board-game
-[ggj2015]: http://globalgamejam.org/2015/games/dungeon-commander
-[ggj2014]: http://globalgamejam.org/2014/games/enabler-tentative
-[ggj2013]: http://2013.globalgamejam.org/2013/solidheart
-[ggj2016loc]: http://globalgamejam.org/2016/jam-sites/ggj-2016-seoul-5minlab
-[ggj2015loc]: http://globalgamejam.org/2015/jam-sites/ggj-seoul-5minlab
-[ggj2014loc]: http://globalgamejam.org/2014/jam-sites/ggjshinggj2014%E6%96%B0%E5%AE%BF%EF%BC%89
-[ggj2013loc]: http://2013.globalgamejam.org/sites/2013/ggj-seoul-seogang-univ
-[hajehp]: http://haje.org/
-[mmo]: https://bitbucket.org/haje/mmo
-[glitch]: http://haje.org/projects/glitch/index
-*[HAJE]: 한국과학기술원 게임개발 동아리
-
-### 출판
+: [DiscardedWarlock][diswarlock] for 2017 summer GGGGJ \\
+<small>게임 기획. 프로그래머</small>\\
+[Chain Bomb][chainbomb] for HAJE autumn GameJam \\
+<small>게임 기획, 프로그래머</small> \\
 
 2016
 
-: **Byungyoon Choi**, Sung-eui Yoon. (2016.7). Artistic Editing of Refractive Index Distributions for Mirage Image Generation. 한국컴퓨터그래픽스학회, 129-130. \\
-**Chœ Byung-yoon**. (2016.8). Wrapping Low-level Graphics Library for Interactive Application. Proceedings of SSCC 1st, 33-40.
+: [Pray][pray](private link) \\
+<small>프로그래머</small> \\
+
+[diswarlock]: https://bitbucket.org/jaeyounglee/discardedwarlock
+[chainbomb]: https://bitbucket.org/jaeyounglee/chain-bomb
+[pray]: https://bitbucket.org/zenta0027/pray
+[hajehp]: http://haje.org/
+[glitch]: http://haje.org/projects/glitch/index
+*[HAJE]: 한국과학기술원 게임개발 동아리
+
