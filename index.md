@@ -44,39 +44,24 @@ title:  "Jaeyoung Lee CV"
 
 ### 교육
 
-2015&ndash;2017
+2013&ndash;2018
 
-: [한국과학기술원][kaist], 공학석사 \\
-[Scalable Graphics/Geometric Algorithm Lab.][sgga] 소속
+: [한국과학기술원][kaist], 공학, 이학학사
 
-2013&ndash;2014
+2010&ndash;2012
 
-: [동경공업대학][titech], 학사 교환학생 \\
-[熊澤研究室][kumazawa] 소속
-
-2011&ndash;2015
-
-: 한국과학기술원, 공학학사
-
-2008&ndash;2011
-
-: [KAIST부설 한국과학영재학교][ksa]
+: [수지고등학교][sjhs]
 
 [kaist]: http://www.kaist.ac.kr/
-[sgga]: http://sgga.kaist.ac.kr/
-[titech]: http://www.titech.ac.jp/
-[kumazawa]: http://kuma2.isl.titech.ac.jp/
-[ksa]: https://ksa.hs.kr/
+[sjhs]: http://www.suji.hs.kr/main.php
 
 ### 취업
 
-2017&ndash;
+### 활동
 
-: [넥슨][nexon], 프로그래머 \\
-[devCAT][devCAT] Team MM 소속
+2016&ndash;&2017
 
-[nexon]: http://www.nexon.com/
-[devCAT]: http://devcat.nexon.com/
+: 카이스트 게임개발동아리 ~하제~ 회장
 
 ### 프로젝트 경력
 
