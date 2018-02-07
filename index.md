@@ -61,13 +61,13 @@ title:  "Jaeyoung Lee CV"
 
 2016&ndash;&2017
 
-: 카이스트 게임개발동아리 ~하제~ 회장 \\
+: 카이스트 게임개발동아리 ~하제~ 회장
 
 ### 개인 프로젝트
 
 2018
 
-: \\
+: 
 
 
 2017
@@ -75,12 +75,12 @@ title:  "Jaeyoung Lee CV"
 : [DiscardedWarlock][diswarlock] for 2017 summer GGGGJ \\
 <small>게임 기획. 프로그래머</small>\\
 [Chain Bomb][chainbomb] for HAJE autumn GameJam \\
-<small>게임 기획, 프로그래머</small> \\
+<small>게임 기획, 프로그래머</small>
 
 2016
 
 : [Pray][pray](private link) \\
-<small>프로그래머</small> \\
+<small>프로그래머</small>
 
 [diswarlock]: https://bitbucket.org/jaeyounglee/discardedwarlock
 [chainbomb]: https://bitbucket.org/jaeyounglee/chain-bomb
