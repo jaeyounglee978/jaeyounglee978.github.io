@@ -46,7 +46,8 @@ title:  "Jaeyoung Lee CV"
 
 2013&ndash;2018
 
-: [Korea Advanced Institute of Science and Technology][kaist], 공학, 이학학사
+: [Korea Advanced Institute of Science and Technology][kaist], the Bachelor of Science \\
+<small>Double Major in Physics and Computer Science</small>
 
 2010&ndash;2012
 
@@ -61,7 +62,7 @@ title:  "Jaeyoung Lee CV"
 
 2016&ndash;2017
 
-: KAIST Game development circle ~HAJE~ Leader
+: KAIST Game development circle [HAJE][hajehp] Leader
 
 ### Personal Project
 
@@ -85,11 +86,11 @@ title:  "Jaeyoung Lee CV"
 : [Pray][pray]<small>(private link)</small> \\
 <small>Programmer</small>
 
+[hajehp]: http://haje.org/
 [mobilerunner]: https://github.com/jaeyounglee978/MobileRunner
 [diswarlock]: https://bitbucket.org/jaeyounglee/discardedwarlock
 [chainbomb]: https://bitbucket.org/jaeyounglee/chain-bomb
 [2017aigame]: https://youtu.be/ComZNlHgpak
 [pray]: https://bitbucket.org/zenta0027/pray
-[hajehp]: http://haje.org/
 *[HAJE]: 한국과학기술원 게임개발 동아리
 
