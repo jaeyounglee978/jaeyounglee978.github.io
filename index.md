@@ -42,50 +42,54 @@ title:  "Jaeyoung Lee CV"
 </header>
 
 
-### 교육
+### Education
 
 2013&ndash;2018
 
-: [한국과학기술원][kaist], 공학, 이학학사
+: [Korea Advanced Institute of Science and Technology][kaist], 공학, 이학학사
 
 2010&ndash;2012
 
-: [수지고등학교][sjhs] 졸업
+: Graduate [Suji High school][sjhs]
 
 [kaist]: http://www.kaist.ac.kr/
 [sjhs]: http://www.suji.hs.kr/main.php
 
-### 취업
+### Career
 
-### 활동
+### Activity
 
-2016&ndash;&2017
+2016&ndash;2017
 
-: 카이스트 게임개발동아리 ~하제~ 회장
+: KAIST Game development circle ~HAJE~ Leader
 
-### 개인 프로젝트
+### Personal Project
 
 2018
 
-: 
+: [MobileRunner][mobilerunner] for toyproject \\
+<small>Game design, Programmer</small>
 
 
 2017
 
-: [DiscardedWarlock][diswarlock] for 2017 summer GGGGJ \\
-<small>게임 기획. 프로그래머</small>\\
+: [Paladin who believes in God(DiscardedWarlock)][diswarlock] for 2017 summer GGGGJ \\
+<small>Game design. Programmer</small>\\
 [Chain Bomb][chainbomb] for HAJE autumn GameJam \\
-<small>게임 기획, 프로그래머</small>
+<small>Game design, Programmer</small>
+[2017 AI Game][2017aigame](movie) for KAIST-POSTECH science war \\
+<small>External negotiation</small>
 
 2016
 
-: [Pray][pray](private link) \\
-<small>프로그래머</small>
+: [Pray][pray]<small>(private link)</small> \\
+<small>Programmer</small>
 
+[mobilerunner]: https://github.com/jaeyounglee978/MobileRunner
 [diswarlock]: https://bitbucket.org/jaeyounglee/discardedwarlock
 [chainbomb]: https://bitbucket.org/jaeyounglee/chain-bomb
+[2017aigame]: https://youtu.be/ComZNlHgpak
 [pray]: https://bitbucket.org/zenta0027/pray
 [hajehp]: http://haje.org/
-[glitch]: http://haje.org/projects/glitch/index
 *[HAJE]: 한국과학기술원 게임개발 동아리
 
