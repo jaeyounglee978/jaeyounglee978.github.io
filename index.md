@@ -80,10 +80,10 @@ title:  "Jaeyoung Lee CV"
 ### Language Skills
 
 : English \\ 
-TOEIC 895 (2018/02/25)
+<small>TOEIC 895 (2018/02/25)</small>
 
 : Japanese \\ 
-JLPT N2 (2018/08/19)
+<small>JLPT N2 (2018/08/19)</small>
 
 [hajehp]: http://haje.org/
 [mobilerunner]: https://github.com/jaeyounglee978/MobileRunner
