@@ -80,11 +80,11 @@ title:  "Jaeyoung Lee CV"
 
 ### Language Skills
 
-English \\
+English
 : TOEIC 895 (2018/02/25)
 
 
-Japanese \\
+Japanese
 : JLPT N2 (2018/08/19)
 
 
