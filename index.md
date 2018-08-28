@@ -77,13 +77,16 @@ title:  "Jaeyoung Lee CV"
 : [Pray][pray]<small>(private link)</small> \\
 <small>Programmer</small>
 
+
 ### Language Skills
 
-: English \\ 
-<small>TOEIC 895 (2018/02/25)</small>
+English \\
+: TOEIC 895 (2018/02/25)
 
-: Japanese \\ 
-<small>JLPT N2 (2018/08/19)</small>
+
+Japanese \\
+: JLPT N2 (2018/08/19)
+
 
 [hajehp]: http://haje.org/
 [mobilerunner]: https://github.com/jaeyounglee978/MobileRunner
