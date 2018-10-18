@@ -53,22 +53,22 @@ title:  "Jaeyoung Lee CV"
 
 2018
 
-: [MobileRunner][mobilerunner]([movie][mobileRunnerMovie]) for toyproject \\
+: [MobileRunner][mobilerunner] for toyproject <small>([movie][mobileRunnerMovie])</small>\\
 <small>Game design, Programmer</small>
 
 
 2017
 
-: [Paladin who believes in God(DiscardedWarlock)][diswarlock]([movie][paladinMovie]) for 2017 summer GGGGJ \\
+: [Paladin who believes in God(DiscardedWarlock)][diswarlock] for 2017 summer GGGGJ <small>([movie][paladinMovie])</small>\\
 <small>Game design. Programmer</small>\\
 [Chain Bomb][chainbomb] for HAJE autumn GameJam \\
 <small>Game design, Programmer</small> \\
-[2017 AI Game][2017aigame]([movie][2017aigamemovie]) for KAIST-POSTECH science war \\
+[2017 AI Game][2017aigame] for KAIST-POSTECH science war <small>([movie][2017aigamemovie])</small>\\
 <small>External negotiation</small>
 
 2016
 
-: [Pray][pray]<small>(private link) ([movie][prayMovie])</small> \\
+: [Pray][pray]<small>(private link)   ([movie][prayMovie])</small> \\
 <small>Programmer</small>
 
 
