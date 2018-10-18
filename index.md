@@ -23,12 +23,6 @@ title:  "Jaeyoung Lee CV"
     </span>
     <span class="username">{{ site.github_username }}</span>
   </a>
-  <a href="https://www.facebook.com/jaeyoung.lee.758" class="nobreak-container">
-    <span class="icon  icon--twitter">
-      <svg viewBox="0 0 33 33" width="25" height="25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M 17.996,32L 12,32 L 12,16 l-4,0 l0-5.514 l 4-0.002l-0.006-3.248C 11.993,2.737, 13.213,0, 18.512,0l 4.412,0 l0,5.515 l-2.757,0 c-2.063,0-2.163,0.77-2.163,2.209l-0.008,2.76l 4.959,0 l-0.585,5.514L 18,16L 17.996,32z"></path></g></svg>
-    </span>
-    <span class="username">jaeyoung lee</span>
-  </a>
   </div>
 </header>
 
@@ -59,32 +53,34 @@ title:  "Jaeyoung Lee CV"
 
 2018
 
-: [MobileRunner][mobilerunner] for toyproject \\
+: [MobileRunner][mobilerunner]([movie][mobileRunnerMovie]) for toyproject \\
 <small>Game design, Programmer</small>
 
 
 2017
 
-: [Paladin who believes in God(DiscardedWarlock)][diswarlock] for 2017 summer GGGGJ \\
+: [Paladin who believes in God(DiscardedWarlock)][diswarlock]([movie][paladinMovie]) for 2017 summer GGGGJ \\
 <small>Game design. Programmer</small>\\
 [Chain Bomb][chainbomb] for HAJE autumn GameJam \\
-<small>Game design, Programmer</small>
-[2017 AI Game][2017aigame](movie) for KAIST-POSTECH science war \\
+<small>Game design, Programmer</small> \\
+[2017 AI Game][2017aigame]([movie][2017aigamemovie]) for KAIST-POSTECH science war \\
 <small>External negotiation</small>
 
 2016
 
-: [Pray][pray]<small>(private link)</small> \\
+: [Pray][pray]<small>(private link) ([movie][prayMovie])</small> \\
 <small>Programmer</small>
 
 
 ### Language Skills
 
 English
+
 : TOEIC 895 (2018/02/25)
 
 
 Japanese
+
 : JLPT N2 (2018/08/19)
 
 
@@ -94,5 +90,9 @@ Japanese
 [chainbomb]: https://bitbucket.org/jaeyounglee/chain-bomb
 [2017aigame]: https://youtu.be/ComZNlHgpak
 [pray]: https://bitbucket.org/zenta0027/pray
+[prayMovie]: https://youtu.be/je0OS2ktQrE
+[paladinMovie]: https://youtu.be/nnh19z0hYZg
+[2017aigamemovie]: https://youtu.be/ComZNlHgpak
+[mobileRunnerMovie]: https://youtu.be/dYTaNsyl4lw
 *[HAJE]: 한국과학기술원 게임개발 동아리
 
