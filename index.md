@@ -43,6 +43,11 @@ title:  "Jaeyoung Lee CV"
 
 ### Career
 
+2019&ndash;
+
+: Naver Expert Connect Dev, as Server Developer \\
+<small>Using Java, Spring boot.</small>
+
 ### Activity
 
 2016&ndash;2017
@@ -81,7 +86,7 @@ English
 
 Japanese
 
-: JLPT N2 (2018/08/19)
+: JLPT N1 (2019/03/19)
 
 
 [hajehp]: http://haje.org/
