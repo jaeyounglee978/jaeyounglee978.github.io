@@ -30,12 +30,23 @@ title:  "Jaeyoung Lee CV"
 
 2019&ndash;
 
-: NAVER / Expert Connect Dev 1<small>Server Engineer</small> \\
+: NAVER / Expert Connect Dev 1<small>Server Engineer</small>\\
 <small>Using Java, Kotlin, Spring.</small>
 
 2019.11
 
-: Release service: LINE弁護士相談<small>Server Engineer</small> <small>([news][lineLaywerConsult])<small>
+: Release service: LINE弁護士相談 <small>([news][lineLaywerConsultNews])</small><small>Server Engineer </small>\\
+<small>
+User account managing and authenticate service as service of MSA. <br>
+Used MongoDB as mainDB, Redis as cache, and spring webflux
+</small>
+
+2019.11
+: Release service: LINEヘルスケア <small>([news][lineHealthCareNews])</small><small>Server Engineeer</small>\\
+<small>
+User account managing and authenticate service as service of MSA. <br>
+Used MongoDB as mainDB, Redis as cache, and spring webflux
+</small>
 
 <br><br>
 
@@ -98,7 +109,8 @@ Japanese
 
 : JLPT N1 (2019/03/19)
 
-[lineLaywerConsult]: https://linecorp.com/ja/pr/news/ja/2019/2987
+[lineLaywerConsultNews]: https://linecorp.com/ja/pr/news/ja/2019/2987
+[lineHealthCareNews]: https://linehealthcarecorp.com/ja
 [hajehp]: http://haje.org/
 [mobilerunner]: https://github.com/jaeyounglee978/MobileRunner
 [diswarlock]: https://bitbucket.org/jaeyounglee/discardedwarlock
