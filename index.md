@@ -45,8 +45,13 @@ title:  "Jaeyoung Lee CV"
 
 2019&ndash;
 
-: Naver Expert Connect Dev, as Server Developer \\
-<small>Using Java, Spring boot.</small>
+: Naver Expert Connect Dev 1, as Server Developer \\
+<small>Using Java, Kotlin, Spring.</small>
+
+2019.11
+
+: release service - LINE弁護士相談
+<small>Server programmer</small>
 
 ### Activity
 
