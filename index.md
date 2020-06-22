@@ -26,6 +26,18 @@ title:  "Jaeyoung Lee CV"
   </div>
 </header>
 
+### Career
+
+2019&ndash;
+
+: NAVER / Expert Connect Dev 1<small>Server Engineer</small> \\
+<small>Using Java, Kotlin, Spring.</small>
+
+2019.11
+
+: Release service: LINE弁護士相談<small>Server Engineer</small> <small>([news][lineLaywerConsult])<small>
+
+<br><br>
 
 ### Education
 
@@ -41,23 +53,15 @@ title:  "Jaeyoung Lee CV"
 [kaist]: http://www.kaist.ac.kr/
 [sjhs]: http://www.suji.hs.kr/main.php
 
-### Career
-
-2019&ndash;
-
-: Naver Expert Connect Dev 1, as Server Developer \\
-<small>Using Java, Kotlin, Spring.</small>
-
-2019.11
-
-: release service - LINE弁護士相談
-<small>Server programmer</small>
+<br><br>
 
 ### Activity
 
 2016&ndash;2017
 
 : KAIST Game development circle [HAJE][hajehp] Leader
+
+<br><br>
 
 ### Personal Project
 
@@ -81,6 +85,7 @@ title:  "Jaeyoung Lee CV"
 : [Pray][pray]<small>(private link)   ([movie][prayMovie])</small> \\
 <small>Programmer</small>
 
+<br><br>
 
 ### Language Skills
 
@@ -93,7 +98,7 @@ Japanese
 
 : JLPT N1 (2019/03/19)
 
-
+[lineLaywerConsult]: https://linecorp.com/ja/pr/news/ja/2019/2987
 [hajehp]: http://haje.org/
 [mobilerunner]: https://github.com/jaeyounglee978/MobileRunner
 [diswarlock]: https://bitbucket.org/jaeyounglee/discardedwarlock

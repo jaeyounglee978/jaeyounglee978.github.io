@@ -22,4 +22,5 @@ gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
    gem "yajl-ruby", "~> 1.3.1"
+   gem "jekyll-target-blank"
 end

@@ -10,3 +10,7 @@ github_username:  jaeyounglee978
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# plugins
+plugins:
+  - jekyll-target-blank
