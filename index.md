@@ -48,6 +48,13 @@ User account managing and authenticate service as service of MSA. <br>
 Used MongoDB as mainDB, Redis as cache, and spring webflux
 </small>
 
+2020.11
+: Release service: LINEドクター <small>([news][lindDoctorNews])</small><small>Server Engineeer</small>\\
+<small>
+User account managing and authenticate service as service of MSA. <br>
+Used MySQL as mainDB, Redis as cache, and spring.
+</small>
+
 <br><br>
 
 ### Education
@@ -111,6 +118,7 @@ Japanese
 
 [lineLaywerConsultNews]: https://linecorp.com/ja/pr/news/ja/2019/2987
 [lineHealthCareNews]: https://linehealthcarecorp.com/ja
+[lindDoctorNews]: https://japan.cnet.com/article/35163983/
 [hajehp]: http://haje.org/
 [mobilerunner]: https://github.com/jaeyounglee978/MobileRunner
 [diswarlock]: https://bitbucket.org/jaeyounglee/discardedwarlock
