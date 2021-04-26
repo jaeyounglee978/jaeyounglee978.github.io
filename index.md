@@ -51,7 +51,7 @@ Used MongoDB as mainDB, Redis as cache, and spring webflux
 2020.11
 : Side Project: Workflow Service
 <small>
-Support Delayed Job service for other projects. Select execution time and do http call at selected time. also support periodic execution.
+Support Delayed Job service for other projects. Select execution time and do http call at selected time. also support periodic execution. <br>
 Used MongoDB as mainDB, Redis as SupportDB, Kotlin(+ coroutine) + Spring Webflux
 </small>
 : Release service: LINEドクター <small>([news][lindDoctorNews])</small><small>Server Engineeer</small>\\
