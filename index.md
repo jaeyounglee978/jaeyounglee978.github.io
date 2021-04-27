@@ -57,7 +57,7 @@ Used MongoDB as mainDB, Redis as SupportDB, Kotlin(+ coroutine) + Spring Webflux
 : Release service: LINEドクター <small>([news][lindDoctorNews])</small><small>Server Engineeer</small>\\
 <small>
 User account managing and authenticate service as service of MSA. <br>
-Used MySQL as mainDB, Redis as cache, and spring.
+Used MySQL as mainDB, Redis as cache, Kafka, and spring.
 </small>
 
 <br><br>
