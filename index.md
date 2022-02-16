@@ -38,28 +38,36 @@ title:  "Jaeyoung Lee CV"
 : Release service: LINE弁護士相談 <small>([news][lineLaywerConsultNews])</small><small>Server Engineer </small>\\
 <small>
 User account managing and authenticate service as service of MSA. <br>
-Used MongoDB as mainDB, Redis as cache, and spring webflux
+Use MongoDB as mainDB, Redis as cache, and spring webflux
 </small>
 
 2019.11
 : Release service: LINEヘルスケア <small>([news][lineHealthCareNews])</small><small>Server Engineeer</small>\\
 <small>
 User account managing and authenticate service as service of MSA. <br>
-Used MongoDB as mainDB, Redis as cache, and spring webflux
+Use MongoDB as mainDB, Redis as cache, and spring webflux
 </small>
 
 2020.11
-: Side Project: Workflow Service
-<small>
-Support Delayed Job service for other projects. Select execution time and do http call at selected time. also support periodic execution. <br>
-Used MongoDB as mainDB, Redis as SupportDB, Kotlin(+ coroutine) + Spring Webflux
-</small>
 : Release service: LINEドクター <small>([news][lindDoctorNews])</small><small>Server Engineeer</small>\\
 <small>
 User account managing and authenticate service as service of MSA. <br>
-Used MySQL as mainDB, Redis as cache, Kafka, and spring.
+Use MySQL as mainDB, Redis as cache, Kafka, and spring.
+</small>
+: Side Project: Workflow Service
+<small>
+Support Delayed Job service for other projects. Select execution time and do http call at selected time. also support periodic execution. <br>
+Use MongoDB as mainDB, Redis as SupportDB, Kotlin(+ coroutine) + Spring Webflux
 </small>
 
+2022.01
+: Release service: Company Internal Service for healthcare.
+<small>
+Use FHIR, global standard for medical information.
+Main data storage architecture.
+Use MySQL, MongoDB
+Spring with java, kotlin. Ktor.
+</small>
 <br><br>
 
 ### Education
