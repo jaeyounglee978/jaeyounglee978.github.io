@@ -63,10 +63,10 @@ Use MongoDB as mainDB, Redis as SupportDB, Kotlin(+ coroutine) + Spring Webflux
 2022.01
 : Release service: Company Internal Service for healthcare.
 <small>
-Use FHIR, global standard for medical information.
-Main data storage architecture.
-Use MySQL, MongoDB
-Spring with java, kotlin. Ktor.
+Use FHIR, global standard for medical information.  <br>
+Main data storage architecture.  <br>
+Use MySQL, MongoDB  <br>
+Spring with java, kotlin. Ktor.  <br>
 </small>
 <br><br>
 
