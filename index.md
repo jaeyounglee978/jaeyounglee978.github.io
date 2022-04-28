@@ -28,7 +28,7 @@ title:  "Jaeyoung Lee CV"
 
 ### Career
 
-2019&ndash;
+2019.01 &ndash;
 
 : NAVER<small>Server Engineer</small>\\
 <small>Using Java, Kotlin, Spring.</small>
