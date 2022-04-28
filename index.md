@@ -30,52 +30,47 @@ title:  "Jaeyoung Lee CV"
 
 2019&ndash;
 
-: NAVER / Expert Connect Dev 1<small>Server Engineer</small>\\
+: NAVER<small>Server Engineer</small>\\
 <small>Using Java, Kotlin, Spring.</small>
 
-2019.11
+   2019.11
 
-: Release service: LINE弁護士相談 <small>([news][lineLaywerConsultNews])</small><small>Server Engineer </small>\\
-<small>
-User account managing and authenticate service as service of MSA. <br>
-Use MongoDB as mainDB, Redis as cache, and spring webflux
-</small>
+   : Release service: LINE弁護士相談 <small>([news][lineLaywerConsultNews])</small><small>Server Engineer </small>\\
+   <small>
+   User account managing and authenticate service as service of MSA. <br>
+   Use MongoDB as mainDB, Redis as cache, and spring webflux
+   </small>
 
-2019.11
-: Release service: LINEヘルスケア <small>([news][lineHealthCareNews])</small><small>Server Engineeer</small>\\
-<small>
-User account managing and authenticate service as service of MSA. <br>
-Use MongoDB as mainDB, Redis as cache, and spring webflux
-</small>
+   2019.11
+   : Release service: LINEヘルスケア <small>([news][lineHealthCareNews])</small><small>Server Engineeer</small>\\
+   <small>
+   User account managing and authenticate service as service of MSA. <br>
+   Use MongoDB as mainDB, Redis as cache, and spring webflux
+   </small>
 
-2020.11
-: Release service: LINEドクター <small>([news][lindDoctorNews])</small><small>Server Engineeer</small>\\
-<small>
-User account managing and authenticate service as service of MSA. <br>
-Use MySQL as mainDB, Redis as cache, Kafka, and spring.
-</small>
-: Side Project: Workflow Service
-<small>
-Support Delayed Job service for other projects. Select execution time and do http call at selected time. also support periodic execution. <br>
-Use MongoDB as mainDB, Redis as SupportDB, Kotlin(+ coroutine) + Spring Webflux
-</small>
+   2020.11
+   : Release service: LINEドクター <small>([news][lindDoctorNews])</small><small>Server Engineeer</small>\\
+   <small>
+   User account managing and authenticate service as service of MSA. <br>
+   Use MySQL as mainDB, Redis as cache, Kafka, and spring.
+   </small>
+   : Side Project: Workflow Service
+   <small>
+   Support Delayed Job service for other projects. Select execution time and do http call at selected time. also support periodic execution. <br>
+   Use MongoDB as mainDB, Redis as SupportDB, Kotlin(+ coroutine) + Spring Webflux
+   </small>
 
-2022.01
-: Release service: Company Internal Service for healthcare.
-<small>
-Use FHIR, global standard for medical information.  <br>
-Main data storage architecture.  <br>
-Use MySQL, MongoDB  <br>
-Spring with java, kotlin. Ktor.  <br>
-</small>
+   2022.01
+   : Release service: Company Internal Service for healthcare.
+   <small>
+   Use FHIR, global standard for medical information.  <br>
+   Main data storage architecture.  <br>
+   Use MySQL, MongoDB  <br>
+   Spring with java, kotlin. Ktor.  <br>
+   </small>
 <br><br>
 
 ### Education
-
-2013&ndash;2018
-
-: [Korea Advanced Institute of Science and Technology][kaist], the Bachelor of Science \\
-<small>Double Major in Physics and Computer Science</small>
 
 2010&ndash;2012
 
@@ -83,6 +78,12 @@ Spring with java, kotlin. Ktor.  <br>
 
 [kaist]: http://www.kaist.ac.kr/
 [sjhs]: http://www.suji.hs.kr/main.php
+
+
+2013&ndash;2018
+
+: [Korea Advanced Institute of Science and Technology][kaist], the Bachelor of Science \\
+<small>Double Major in Physics and Computer Science</small>
 
 <br><br>
 
@@ -96,10 +97,10 @@ Spring with java, kotlin. Ktor.  <br>
 
 ### Personal Project
 
-2018
+2016
 
-: [MobileRunner][mobilerunner] for toyproject <small>([movie][mobileRunnerMovie])</small>\\
-<small>Game design, Programmer</small>
+: [Pray][pray]<small>(private link)   ([movie][prayMovie])</small> \\
+<small>Programmer</small>
 
 
 2017
@@ -111,10 +112,14 @@ Spring with java, kotlin. Ktor.  <br>
 [2017 AI Game][2017aigame] for KAIST-POSTECH science war <small>([movie][2017aigamemovie])</small>\\
 <small>External negotiation</small>
 
-2016
 
-: [Pray][pray]<small>(private link)   ([movie][prayMovie])</small> \\
-<small>Programmer</small>
+2018
+
+: [MobileRunner][mobilerunner] for toyproject <small>([movie][mobileRunnerMovie])</small>\\
+<small>Game design, Programmer</small>
+
+
+
 
 <br><br>
 
