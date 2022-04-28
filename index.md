@@ -33,41 +33,41 @@ title:  "Jaeyoung Lee CV"
 : NAVER<small>Server Engineer</small>\\
 <small>Using Java, Kotlin, Spring.</small>
 
-   2019.11
+  2019.11
 
-   : Release service: LINE弁護士相談 <small>([news][lineLaywerConsultNews])</small><small>Server Engineer </small>\\
-   <small>
-   User account managing and authenticate service as service of MSA. <br>
-   Use MongoDB as mainDB, Redis as cache, and spring webflux
-   </small>
+  : Release service: LINE弁護士相談 <small>([news][lineLaywerConsultNews])</small><small>Server Engineer </small>\\
+  <small>
+  User account managing and authenticate service as service of MSA. <br>
+  Use MongoDB as mainDB, Redis as cache, and spring webflux
+  </small>
 
-   2019.11
-   : Release service: LINEヘルスケア <small>([news][lineHealthCareNews])</small><small>Server Engineeer</small>\\
-   <small>
-   User account managing and authenticate service as service of MSA. <br>
-   Use MongoDB as mainDB, Redis as cache, and spring webflux
-   </small>
+  2019.11
+  : Release service: LINEヘルスケア <small>([news][lineHealthCareNews])</small><small>Server Engineeer</small>\\
+  <small>
+  User account managing and authenticate service as service of MSA. <br>
+  Use MongoDB as mainDB, Redis as cache, and spring webflux
+  </small>
 
-   2020.11
-   : Release service: LINEドクター <small>([news][lindDoctorNews])</small><small>Server Engineeer</small>\\
-   <small>
-   User account managing and authenticate service as service of MSA. <br>
-   Use MySQL as mainDB, Redis as cache, Kafka, and spring.
-   </small>
-   : Side Project: Workflow Service
-   <small>
-   Support Delayed Job service for other projects. Select execution time and do http call at selected time. also support periodic execution. <br>
-   Use MongoDB as mainDB, Redis as SupportDB, Kotlin(+ coroutine) + Spring Webflux
-   </small>
+  2020.11
+  : Release service: LINEドクター <small>([news][lindDoctorNews])</small><small>Server Engineeer</small>\\
+  <small>
+  User account managing and authenticate service as service of MSA. <br>
+  Use MySQL as mainDB, Redis as cache, Kafka, and spring.
+  </small>
+  : Side Project: Workflow Service
+  <small>
+  Support Delayed Job service for other projects. Select execution time and do http call at selected time. also support periodic execution. <br>
+  Use MongoDB as mainDB, Redis as SupportDB, Kotlin(+ coroutine) + Spring Webflux
+  </small>
 
-   2022.01
-   : Release service: Company Internal Service for healthcare.
-   <small>
-   Use FHIR, global standard for medical information.  <br>
-   Main data storage architecture.  <br>
-   Use MySQL, MongoDB  <br>
-   Spring with java, kotlin. Ktor.  <br>
-   </small>
+  2022.01
+  : Release service: Company Internal Service for healthcare.
+  <small>
+  Use FHIR, global standard for medical information.  <br>
+  Main data storage architecture.  <br>
+  Use MySQL, MongoDB  <br>
+  Spring with java, kotlin. Ktor.  <br>
+  </small>
 <br><br>
 
 ### Education
