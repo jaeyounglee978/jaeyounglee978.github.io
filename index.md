@@ -35,22 +35,27 @@ title:  "Jaeyoung Lee CV"
 
 
 - 2019.11
-  - : Release service: LINE弁護士相談 <small>([news][lineLaywerConsultNews])</small><small>Server Engineer </small>\\
-    - <small>User account managing and authenticate service as service of MSA. <br>Use MongoDB as mainDB, Redis as cache, and spring webflux</small>
+  - : Release service: LINE弁護士相談 <small>([news][lineLaywerConsultNews])</small><small>Server Engineer </small>
+    - <small>User account managing and authenticate service as service of MSA.
+    - Use MongoDB as mainDB, Redis as cache, and spring webflux</small>
 
 - 2019.11
-  - : Release service: LINEヘルスケア <small>([news][lineHealthCareNews])</small><small>Server Engineeer</small>\\
-    - <small>User account managing and authenticate service as service of MSA. <br>Use MongoDB as mainDB, Redis as cache, and spring webflux</small>
+  - : Release service: LINEヘルスケア <small>([news][lineHealthCareNews])</small><small>Server Engineeer</small>
+    - <small>User account managing and authenticate service as service of MSA.
+    - Use MongoDB as mainDB, Redis as cache, and spring webflux</small>
 
-2020.11
+- 2020.11
   - : Release service: LINEドクター <small>([news][lindDoctorNews])</small><small>Server Engineeer</small>\\
-    - <small>User account managing and authenticate service as service of MSA. <br>Use MySQL as mainDB, Redis as cache, Kafka, and spring.</small>
+    - <small>User account managing and authenticate service as service of MSA.
+    - Use MySQL as mainDB, Redis as cache, Kafka, and spring.</small>
   - : Side Project: Workflow Service
-    - <small>Support Delayed Job service for other projects. Select execution time and do http call at selected time. also support periodic execution. <br>Use MongoDB as mainDB, Redis as SupportDB, Kotlin(+ coroutine) + Spring Webflux</small>
+    - <small>Support Delayed Job service for other projects. Select execution time and do http call at selected time. also support periodic execution.
+    - Use MongoDB as mainDB, Redis as SupportDB, Kotlin(+ coroutine) + Spring Webflux</small>
 
 - 2022.01
   - : Release service: Company Internal Service for healthcare.
-    - <small>Use FHIR, global standard for medical information.  <br>Main data storage architecture.  <br>Use MySQL, MongoDB  <br>Spring with java, kotlin. Ktor. </small>
+    - <small>Use FHIR, global standard for medical information. Main data storage architecture.
+    - Use MySQL, MongoDB. Spring with java, kotlin. Ktor. </small>
 <br><br>
 
 ### Education
