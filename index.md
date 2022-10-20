@@ -28,12 +28,12 @@ title:  "Jaeyoung Lee CV"
 
 ### Career
 
-  2022.01.13 &ndash;
+  2022.06.13 &ndash;
 
   : Bepro 11<small>Camera Infra Engineer</small>\\
   <small>Using python</small>
 
-  2019.01 &ndash;
+  2019.01.21 &ndash 2022.06.10;
 
   : NAVER<small>Server Engineer</small>\\
   <small>Using Java, Kotlin, Spring.</small>
