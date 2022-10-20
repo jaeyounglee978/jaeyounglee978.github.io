@@ -33,7 +33,7 @@ title:  "Jaeyoung Lee CV"
   : Bepro 11<small>Camera Infra Engineer</small>\\
   <small>Using python</small>
 
-  2019.01.21 &ndash 2022.06.10;
+  2019.01.21 &ndash; 2022.06.10
 
   : NAVER<small>Server Engineer</small>\\
   <small>Using Java, Kotlin, Spring.</small>
