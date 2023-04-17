@@ -33,7 +33,7 @@ title:  "Jaeyoung Lee CV"
   : Bepro 11<small>Camera Infra Engineer</small>\\
   <small>Using python to manage data processing pipeline.</small>
 
-  2019.01.21 &ndash; 2022.06.10 / 
+  2019.01.21 &ndash; 2022.06.10  
 
   : NAVER<small>Server Engineer</small>\\
   <small>Using Java, Kotlin, Spring.</small>
@@ -65,18 +65,17 @@ title:  "Jaeyoung Lee CV"
 
 ### Education
 
+2013&ndash;2018
+
+: [Korea Advanced Institute of Science and Technology][kaist], the Bachelor of Science \\
+<small>Double Major in Physics and Computer Science</small>
+
 2010&ndash;2012
 
 : Graduate [Suji High school][sjhs]
 
 [kaist]: http://www.kaist.ac.kr/
 [sjhs]: http://www.suji.hs.kr/main.php
-
-
-2013&ndash;2018
-
-: [Korea Advanced Institute of Science and Technology][kaist], the Bachelor of Science \\
-<small>Double Major in Physics and Computer Science</small>
 
 <br><br>
 
