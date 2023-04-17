@@ -31,7 +31,7 @@ title:  "Jaeyoung Lee CV"
   2022.06.13 &ndash;
 
   : Bepro 11<small>Camera Infra Engineer</small>\\
-  <small>Using python</small>
+  <small>Using python to manage data processing pipeline.</small>
 
   2019.01.21 &ndash; 2022.06.10 / 
 
@@ -80,21 +80,18 @@ title:  "Jaeyoung Lee CV"
 
 <br><br>
 
-### Activity
-
-2016&ndash;2017
-
-: KAIST Game development circle [HAJE][hajehp] Leader
-
-<br><br>
-
 ### Personal Project
 
-2016
+2022
+: [AIRSIX Webpage][airsix-webpage]
+<small>Sideproject to make website serving IPSC/USPSA based match result.
+<small>Frontend using Vue 3, Backend using Flask, MongoDB for database</small>
+<small>Using github action, run 4 docker image on single AWS EC2 instance.</small>
 
-: [Pray][pray]<small>(private link)   ([movie][prayMovie])</small> \\
-<small>Programmer</small>
+2018
 
+: [MobileRunner][mobilerunner] as toyproject <small>([movie][mobileRunnerMovie])</small>\\
+<small>Game design, Programmer</small>
 
 2017
 
@@ -105,14 +102,18 @@ title:  "Jaeyoung Lee CV"
 [2017 AI Game][2017aigame] for KAIST-POSTECH science war <small>([movie][2017aigamemovie])</small>\\
 <small>External negotiation</small>
 
+2016
 
-2018
+: [Pray][pray]<small>(private link)   ([movie][prayMovie])</small> \\
+<small>Programmer</small>
 
-: [MobileRunner][mobilerunner] for toyproject <small>([movie][mobileRunnerMovie])</small>\\
-<small>Game design, Programmer</small>
+<br><br>
 
+### Activity
 
+2016&ndash;2017
 
+: KAIST Game development circle [HAJE][hajehp] Leader
 
 <br><br>
 
@@ -140,5 +141,6 @@ Japanese
 [paladinMovie]: https://youtu.be/nnh19z0hYZg
 [2017aigamemovie]: https://youtu.be/ComZNlHgpak
 [mobileRunnerMovie]: https://youtu.be/dYTaNsyl4lw
+[airsix-webpage]: https://air-six.com
 *[HAJE]: 한국과학기술원 게임개발 동아리
 
