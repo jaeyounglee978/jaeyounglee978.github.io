@@ -85,7 +85,7 @@ title:  "Jaeyoung Lee CV"
 : [AIRSIX Webpage][airsix-webpage]
 <small>Sideproject to make website serving IPSC/USPSA based match result.
 <small>Frontend using Vue 3, Backend using Flask, MongoDB for database</small>
-<small>Using github action, run 4 docker image on single AWS EC2 instance.</small>
+<small>Using github action, run 4 docker images on single AWS EC2 instance with docker compose.</small>
 
 2018
 
