@@ -39,7 +39,7 @@ title: "Jaeyoung Lee CV"
   - Make new script for new service. Running on Ubuntu machine and successfully support new recording service with new camera.
   - Experience the importance of logging. Finding error and reason from large size of log file.
 
-
+<br><br>
 2019.01.21 &ndash; 2022.06.10 &nbsp;&nbsp;&nbsp;
 
 : NAVER<small>Server Engineer</small>\\
@@ -53,6 +53,7 @@ title: "Jaeyoung Lee CV"
     - Ktor is simple framework using Kotlin, very easy to start.
     - Since we planned to store a lots of complicated medical information. Choose MongoDB, to store info in more loosen form and prepare for future spec change.
 
+<br><br>
 - 2020.11
 
   - Release service: LINE ドクター <small>([news][lindDoctorNews])</small><small>Server Engineeer</small>
@@ -69,6 +70,7 @@ title: "Jaeyoung Lee CV"
     - Apache pulsar supports delayed message queue service. Use this to make message containing information about job to execute and receive it when it is time to start it.
     - Available to execute requested 10,000 HTTP request jobs per second. Used this service to serve internal needs. Like alarm services.
 
+<br><br>
 - 2019.11
 
   - Release service: LINE ヘルスケア <small>([news][lineHealthCareNews])</small><small>Server Engineeer</small>
@@ -101,13 +103,11 @@ title: "Jaeyoung Lee CV"
 
 English
 
-: TOEIC 895 (2018/02/25)
-: Have no probelm in using English for business level.
+: TOEIC 895 (2018/02/25), Have no probelm in using English for business level.
 
 Japanese
 
-: JLPT N1 (2019/03/19)
-: Available to use Japanese in daily life and work also.
+: JLPT N1 (2019/03/19), Available to use Japanese in daily life and work also.
 
 <br><br>
 
