@@ -116,9 +116,10 @@ Japanese
 
 2022
 : [AIRSIX Webpage][airsix-webpage]
-<small>Sideproject to make website serving IPSC/USPSA based match result.
-<small>Frontend using Vue 3, Backend using Flask, MongoDB for database</small>
-<small>Using github action, run 4 docker images on single AWS EC2 instance with docker compose.</small>
+<small>Sideproject to make website serving IPSC/USPSA based match result.</small>
+<small>Vue 3 for Frontend, Flask for Backend, and MongoDB for database</small>
+<small>Using github action, build docker images and upload them to github registry.</small>
+<small>Run 4 docker images on single AWS EC2 instance with docker compose.</small>
 
 2018
 
