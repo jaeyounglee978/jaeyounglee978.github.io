@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jaeyoung Lee CV"
+title: "Jaeyoung Lee CV"
 ---
 
 <header class="post-header">
@@ -28,39 +28,57 @@ title:  "Jaeyoung Lee CV"
 
 ### Career
 
-  2022.06.13 &ndash;
+2022.06.13 &ndash;
 
-  : Bepro 11<small>Camera Infra Engineer</small>\\
-  <small>Using python to manage data processing pipeline.</small>
+: Bepro 11<small>Camera Infra Engineer</small>\\
+<small>Using python to manage data processing pipeline.</small>
 
-  2019.01.21 &ndash; 2022.06.10 &nbsp;&nbsp;&nbsp;
+- Camera infrastructure management.
+  - To start recording on the pitch on the time, retreive video files, pass video files to video processing program, and upload result video to server, I managed dedicated script for service and overall service.
+  - Refactor script. Extract logic and make it to Process to simplify main script, and clarify managing point.
+  - Make new script for new service. Running on Ubuntu machine and successfully support new recording service with new camera.
+  - Experience the importance of logging. Finding error and reason from large size of log file.
 
-  : NAVER<small>Server Engineer</small>\\
-  <small>Using Java, Kotlin, Spring.</small>
 
+2019.01.21 &ndash; 2022.06.10 &nbsp;&nbsp;&nbsp;
 
-- 2019.11
-  - Release service: LINE弁護士相談 <small>([news][lineLaywerConsultNews])</small><small>Server Engineer </small>
-    - <small>User account managing and authenticate service as service of MSA.</small>
-    - Use MongoDB as mainDB, Redis as cache, and spring webflux
-
-- 2019.11
-  - Release service: LINEヘルスケア <small>([news][lineHealthCareNews])</small><small>Server Engineeer</small>
-    - <small>User account managing and authenticate service as service of MSA.</small>
-    - Use MongoDB as mainDB, Redis as cache, and spring webflux
-
-- 2020.11
-  - Release service: LINEドクター <small>([news][lindDoctorNews])</small><small>Server Engineeer</small>\\
-    - <small>User account managing and authenticate service as service of MSA.</small>
-    - Use MySQL as mainDB, Redis as cache, Kafka, and spring.
-  - Side Project: Workflow Service
-    - <small>Support Delayed Job service for other projects. Select execution time and do http call at selected time. also support periodic execution.</small>
-    - Use MongoDB as mainDB, Redis as SupportDB, Kotlin(+ coroutine) + Spring Webflux
+: NAVER<small>Server Engineer</small>\\
+<small>Mainly Using Java, Kotlin, Spring.</small>
 
 - 2022.01
+
   - Release service: Company Internal Service for healthcare.
-    - <small>Use FHIR, global standard for medical information. Main data storage architecture.</small>
-    - Use MySQL, MongoDB. Spring with java, kotlin. Ktor.
+    - Use FHIR, global standard for medical information. Main data storage architecture.
+    - Use MySQL, MongoDB. Spring with java, kotlin. Ktor as a framework for small server.
+    - Ktor is simple framework using Kotlin, very easy to start.
+    - Since we planned to store a lots of complicated medical information. Choose MongoDB, to store info in more loosen form and prepare for future spec change.
+
+- 2020.11
+
+  - Release service: LINE ドクター <small>([news][lindDoctorNews])</small><small>Server Engineeer</small>
+    - User account managing and authenticate service as service of MSA.
+    - Use MySQL as mainDB, Redis as cache, Kafka, and spring.
+    - Use JWT as authentication token. Simple but enough to manage user login info.
+    - By using Spring Filter, authorize user access to API endpoint by given JWT token from header.
+    - In case of JWT modification, Redis is used not only for cache but for managing token info.
+
+  - Side Project: Workflow Service
+    - Support Delayed Job service for other projects. Select execution time and do http call at selected time. also support periodic execution.
+    - Use MongoDB as mainDB, Redis as SupportDB, Kotlin(+ coroutine) + Spring Webflux. Apache Pulsar.
+    - Consists of three parts. API, Scheduler, and Executor.
+    - Apache pulsar supports delayed message queue service. Use this to make message containing information about job to execute and receive it when it is time to start it.
+    - Available to execute requested 10,000 HTTP request jobs per second. Used this service to serve internal needs. Like alarm services.
+
+- 2019.11
+
+  - Release service: LINE ヘルスケア <small>([news][lineHealthCareNews])</small><small>Server Engineeer</small>
+    - User account managing and authenticate service as service of MSA.
+    - Use MongoDB as mainDB, Redis as cache, and spring webflux
+
+  - Release service: LINE 弁護士相談 <small>([news][lineLaywerConsultNews])</small><small>Server Engineer </small>
+    - User account managing and authenticate service as service of MSA.
+    - Use MongoDB as mainDB, Redis as cache, and spring webflux
+
 <br><br>
 
 ### Education
@@ -76,6 +94,20 @@ title:  "Jaeyoung Lee CV"
 
 [kaist]: http://www.kaist.ac.kr/
 [sjhs]: http://www.suji.hs.kr/main.php
+
+<br><br>
+
+### Language Skills
+
+English
+
+: TOEIC 895 (2018/02/25)
+: Have no probelm in using English for business level.
+
+Japanese
+
+: JLPT N1 (2019/03/19)
+: Available to use Japanese in daily life and work also.
 
 <br><br>
 
@@ -103,7 +135,7 @@ title:  "Jaeyoung Lee CV"
 
 2016
 
-: [Pray][pray]<small>(private link)   ([movie][prayMovie])</small> \\
+: [Pray][pray]<small>(private link) ([movie][prayMovie])</small> \\
 <small>Programmer</small>
 
 <br><br>
@@ -113,19 +145,6 @@ title:  "Jaeyoung Lee CV"
 2016&ndash;2017
 
 : KAIST Game development circle [HAJE][hajehp] Leader
-
-<br><br>
-
-### Language Skills
-
-English
-
-: TOEIC 895 (2018/02/25)
-
-
-Japanese
-
-: JLPT N1 (2019/03/19)
 
 [lineLaywerConsultNews]: https://linecorp.com/ja/pr/news/ja/2019/2987
 [lineHealthCareNews]: https://linehealthcarecorp.com/ja
@@ -141,5 +160,5 @@ Japanese
 [2017aigamemovie]: https://youtu.be/ComZNlHgpak
 [mobileRunnerMovie]: https://youtu.be/dYTaNsyl4lw
 [airsix-webpage]: https://air-six.com
-*[HAJE]: 한국과학기술원 게임개발 동아리
 
+\*[HAJE]: 한국과학기술원 게임개발 동아리
