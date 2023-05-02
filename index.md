@@ -34,9 +34,11 @@ title: "Jaeyoung Lee CV"
 <small>Using python to manage data processing pipeline.</small>
 
 - Camera infrastructure management.
-  - To start recording on the pitch on the time, retreive video files, pass video files to video processing program, and upload result video to server, I managed dedicated script for service and overall service.
+  - To start recording on the pitch on the time, retreive video files from camera, pass video files to video processing program, and upload result video to server, I managed dedicated script for recording and also participated to service API partially.
+  - Simple experience about Python multiprocessing, threading.
+  - Basic understand and use of HLS format.
   - Refactor script. Extract logic and make it to Process to simplify main script, and clarify managing point.
-  - Make new script for new service. Running on Ubuntu machine and successfully support new recording service with new camera.
+  - Make new script for new service running on Ubuntu machine and successfully support new recording service with new camera.
   - Experience the importance of logging. Finding error and reason from large size of log file.
 
 <br><br>
@@ -51,7 +53,7 @@ title: "Jaeyoung Lee CV"
   - Release service: Company Internal Service for healthcare.
     - Use FHIR, global standard for medical information. Main data storage architecture.
     - Use MySQL, MongoDB. Spring with java, kotlin. Ktor as a framework for small server.
-    - Ktor is simple framework using Kotlin, very easy to start.
+    - Ktor - simple framework using Kotlin, very easy to start.
     - Since we planned to store a lots of complicated medical information. Choose MongoDB, to store info in more loosen form and prepare for future spec change.
 
 <br>
