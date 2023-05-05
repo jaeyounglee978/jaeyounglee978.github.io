@@ -34,6 +34,7 @@ title: "Jaeyoung Lee CV"
 <small>Using python to manage data processing pipeline.</small>
 
 - Camera infrastructure management.
+  - Participate in the service to make project for what I like, Football.
   - To start recording on the pitch on the time, retreive video files from camera, pass video files to video processing program, and upload result video to server, I managed dedicated script for recording and also participated to service API partially.
   - Simple experience about Python multiprocessing, threading.
   - Basic understand and use of HLS format.
@@ -59,30 +60,32 @@ title: "Jaeyoung Lee CV"
 <br>
 - 2020.11
 
-  - Release service: LINE ドクター <small>([news][lindDoctorNews])</small><small>Server Engineeer</small>
-    - User account managing and authenticate service as service of MSA.
-    - Use MySQL as mainDB, Redis as cache, Kafka, and spring.
-    - Use JWT as authentication token. Simple but enough to manage user login info.
-    - By using Spring Filter, authorize user access to API endpoint by given JWT token from header.
-    - In case of JWT modification, Redis is used not only for cache but for managing token info.
+- Release service: LINE ドクター <small>([news][lindDoctorNews])</small><small>Server Engineeer</small>
 
-  - Side Project: Workflow Service
-    - Support Delayed Job service for other projects. Select execution time and do http call at selected time. also support periodic execution.
-    - Use MongoDB as mainDB, Redis as SupportDB, Kotlin(+ coroutine) + Spring Webflux. Apache Pulsar.
-    - Consists of three parts. API, Scheduler, and Executor.
-    - Apache pulsar supports delayed message queue service. Use this to make message containing information about job to execute and receive it when it is time to start it.
-    - Available to execute requested 10,000 HTTP request jobs per second. Used this service to serve internal needs. Like alarm services.
+  - User account managing and authenticate service as service of MSA.
+  - Use MySQL as mainDB, Redis as cache, Kafka, and spring.
+  - Use JWT as authentication token. Simple but enough to manage user login info.
+  - By using Spring Filter, authorize user access to API endpoint by given JWT token from header.
+  - In case of JWT modification, Redis is used not only for cache but for managing token info.
+
+- Side Project: Workflow Service
+  - Support Delayed Job service for other projects. Select execution time and do http call at selected time. also support periodic execution.
+  - Use MongoDB as mainDB, Redis as SupportDB, Kotlin(+ coroutine) + Spring Webflux. Apache Pulsar.
+  - Consists of three parts. API, Scheduler, and Executor.
+  - Apache pulsar supports delayed message queue service. Use this to make message containing information about job to execute and receive it when it is time to start it.
+  - Available to execute requested 10,000 HTTP request jobs per second. Used this service to serve internal needs. Like alarm services.
 
 <br>
 - 2019.11
 
-  - Release service: LINE ヘルスケア <small>([news][lineHealthCareNews])</small><small>Server Engineeer</small>
-    - User account managing and authenticate service as service of MSA.
-    - Use MongoDB as mainDB, Redis as cache, and spring webflux
+- Release service: LINE ヘルスケア <small>([news][lineHealthCareNews])</small><small>Server Engineeer</small>
 
-  - Release service: LINE 弁護士相談 <small>([news][lineLaywerConsultNews])</small><small>Server Engineer </small>
-    - User account managing and authenticate service as service of MSA.
-    - Use MongoDB as mainDB, Redis as cache, and spring webflux
+  - User account managing and authenticate service as service of MSA.
+  - Use MongoDB as mainDB, Redis as cache, and spring webflux
+
+- Release service: LINE 弁護士相談 <small>([news][lineLaywerConsultNews])</small><small>Server Engineer </small>
+  - User account managing and authenticate service as service of MSA.
+  - Use MongoDB as mainDB, Redis as cache, and spring webflux
 
 <br><br>
 
