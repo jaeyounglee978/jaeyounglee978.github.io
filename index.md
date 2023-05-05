@@ -34,7 +34,7 @@ title: "Jaeyoung Lee CV"
 <small>Using python to manage data processing pipeline.</small>
 
 - Camera infrastructure management.
-  - Participate in the service to make project for what I like, Football.
+  - Participate in the project making the service for what I like, Football.
   - To start recording on the pitch on the time, retreive video files from camera, pass video files to video processing program, and upload result video to server, I managed dedicated script for recording and also participated to service API partially.
   - Simple experience about Python multiprocessing, threading.
   - Basic understand and use of HLS format.
