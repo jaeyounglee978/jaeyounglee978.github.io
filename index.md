@@ -28,7 +28,14 @@ title: "Jaeyoung Lee CV"
 
 ### Career
 
-2022.06.13 &ndash;
+2022.08.07 &ndash;
+
+: Ignite<small>Backend dev</small>\\
+<small>Using Java, Spring.</small>
+
+<br><br>
+
+2022.06.13 &ndash; 2023.07.28 &nbsp;&nbsp;&nbsp;
 
 : Bepro 11<small>Camera Infra Engineer</small>\\
 <small>Using python to manage data processing pipeline.</small>
