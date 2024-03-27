@@ -31,7 +31,14 @@ title: "Jaeyoung Lee CV"
 2022.08.07 &ndash;
 
 : Ignite<small>Backend dev</small>\\
-<small>Using Java, Spring.</small>
+<small>Using Java, Kotlin, Spring.</small>
+
+- [KIA CPO service][kiaCpo]
+  - Developing and maintaining User side service and data flow of user request.
+  - Call external API to get expected price of user's car, and manage user request's status following purchase progress untill the car is decided to be purchased by Company.
+  - Use elastic search(AWS Opensearch Service) to support searching cars.
+  - Make tools to support QA process.
+- Developers
 
 <br><br>
 
@@ -158,6 +165,7 @@ Japanese
 
 : KAIST Game development circle [HAJE][hajehp] Leader
 
+[kiaCpo]: https://cpo.kia.com
 [lineLaywerConsultNews]: https://linecorp.com/ja/pr/news/ja/2019/2987
 [lineHealthCareNews]: https://linehealthcarecorp.com/ja
 [lindDoctorNews]: https://japan.cnet.com/article/35163983/
