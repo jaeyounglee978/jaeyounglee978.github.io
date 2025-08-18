@@ -88,10 +88,10 @@ title: "Jaeyoung Lee CV"
 
 - 2019.11
 
-  - Release service: LINE ヘルスケア <small>([news][lineHealthCareNews])</small><small>Server Engineeer</small>
+  - LINE ヘルスケア <small>([news][lineHealthCareNews])</small><small>Server Engineeer</small>
     - Developed authentication and account management services using MongoDB, Redis, and Spring WebFlux.
 
-  - Release service: LINE 弁護士相談 <small>([news][lineLaywerConsultNews])</small><small>Server Engineer </small>
+  - LINE 弁護士相談 <small>([news][lineLaywerConsultNews])</small><small>Server Engineer </small>
     - Built account and authentication services for legal consultation platform.
     - Used MongoDB, Redis, and Spring WebFlux.
 
