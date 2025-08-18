@@ -31,73 +31,69 @@ title: "Jaeyoung Lee CV"
 2022.08.07 &ndash;
 
 : Ignite<small>Backend dev</small>\\
-<small>Using Java, Kotlin, Spring.</small>
+<small>Java, Kotlin, Spring.</small>
 
 - [KIA CPO service][kiaCpo]
-  - Developing and maintaining User side service and data flow of user request.
-  - Call external API to get expected price of user's car, and manage user request's status following purchase progress untill the car is decided to be purchased by Company.
-  - Use elastic search(AWS Opensearch Service) to support searching cars.
-  - Make tools to support QA process.
-- Developers
+  - Developed and maintained user-facing services and request data flows.
+  - Integrated external APIs to provide estimated car prices and managed request status throughout the purchase process.
+  - Implemented search functionality using Elasticsearch (AWS OpenSearch Service).
+  - Built internal tools to support QA processes.
+
+- Hyundai Internal Service 1
+  - Developed APIs for menu, user notifications, and organizational charts.
+  - Integrated Hyundai-provided APIs for internal web services.
+  - Implemented asynchronous notification delivery with Kafka and Spring Batch, including retry mechanisms.
+
+- Hyundai Internal Saas
+  - Monolithic, Spring with Java21. With MongoDB
 
 <br><br>
 
 2022.06.13 &ndash; 2023.07.28 &nbsp;&nbsp;&nbsp;
 
 : Bepro 11<small>Camera Infra Engineer</small>\\
-<small>Using python to manage data processing pipeline.</small>
+<small>Python, Data Processing Pipelines</small>
 
-- Camera infrastructure management.
-  - Participate in the project making the service for what I like, Football.
-  - To start recording on the pitch on the time, retreive video files from camera, pass video files to video processing program, and upload result video to server, I managed dedicated script for recording and also participated to service API partially.
-  - Simple experience about Python multiprocessing, threading.
-  - Basic understand and use of HLS format.
-  - Refactor script. Extract logic and make it to Process to simplify main script, and clarify managing point.
-  - Make new script for new service running on Ubuntu machine and successfully support new recording service with new camera.
-  - Experience the importance of logging. Finding error and reason from large size of log file.
+- Managed camera infrastructure for automated football match recording and video processing.
+- Developed and maintained scripts to schedule recordings, retrieve files, run processing pipelines, and upload results.
+- Refactored scripts by modularizing logic and introducing multiprocessing/threading for efficiency.
+- Designed new scripts for services on Ubuntu-based systems, supporting new camera hardware.
+- Gained experience with HLS format and emphasized robust logging for debugging and error tracking.
 
 <br><br>
 
 2019.01.21 &ndash; 2022.06.10 &nbsp;&nbsp;&nbsp;
 
 : NAVER<small>Server Engineer</small>\\
-<small>Mainly Using Java, Kotlin, Spring.</small>
+<small>Java, Kotlin, Spring, MicroServices</small>
 
 - 2022.01
 
-  - Release service: Company Internal Service for healthcare.
-    - Use FHIR, global standard for medical information. Main data storage architecture.
-    - Use MySQL, MongoDB. Spring with java, kotlin. Ktor as a framework for small server.
-    - Ktor - simple framework using Kotlin, very easy to start.
-    - Since we planned to store a lots of complicated medical information. Choose MongoDB, to store info in more loosen form and prepare for future spec change.
+  - Internal HealthCare Service
+    - Built services based on FHIR (medical data standard).
+    - Designed hybrid storage architecture using MySQL and MongoDB to handle complex medical records.
+    - Used Spring (Java/Kotlin) and Ktor as a lightweight server framework  .
 
 - 2020.11
 
-  - Release service: LINE ドクター <small>([news][lindDoctorNews])</small><small>Server Engineeer</small>
-
-    - User account managing and authenticate service as service of MSA.
-    - Use MySQL as mainDB, Redis as cache, Kafka, and spring.
-    - Use JWT as authentication token. Simple but enough to manage user login info.
-    - By using Spring Filter, authorize user access to API endpoint by given JWT token from header.
-    - In case of JWT modification, Redis is used not only for cache but for managing token info.
-
+  - LINE ドクター <small>([news][lindDoctorNews])</small><small>Server Engineeer</small>
+    - Developed user authentication and account services within a microservice architecture.
+    - MySQL, Redis, Kafka, Spring.
+    - Implemented JWT-based authentication and authorization with Redis-backed token management.
+    
   - Side Project: Workflow Service
-    - Support Delayed Job service for other projects. Select execution time and do http call at selected time. also support periodic execution.
-    - Use MongoDB as mainDB, Redis as SupportDB, Kotlin(+ coroutine) + Spring Webflux. Apache Pulsar.
-    - Consists of three parts. API, Scheduler, and Executor.
-    - Apache pulsar supports delayed message queue service. Use this to make message containing information about job to execute and receive it when it is time to start it.
-    - Available to execute requested 10,000 HTTP request jobs per second. Used this service to serve internal needs. Like alarm services.
+    - Designed and implemented a delayed/periodic job execution system.
+    - Stack: MongoDB, Redis, Kotlin coroutines, Spring WebFlux, Apache Pulsar.
+    - Achieved throughput of 10,000+ scheduled HTTP jobs per second for internal services.
 
 - 2019.11
 
   - Release service: LINE ヘルスケア <small>([news][lineHealthCareNews])</small><small>Server Engineeer</small>
-
-    - User account managing and authenticate service as service of MSA.
-    - Use MongoDB as mainDB, Redis as cache, and spring webflux
+    - Developed authentication and account management services using MongoDB, Redis, and Spring WebFlux.
 
   - Release service: LINE 弁護士相談 <small>([news][lineLaywerConsultNews])</small><small>Server Engineer </small>
-    - User account managing and authenticate service as service of MSA.
-    - Use MongoDB as mainDB, Redis as cache, and spring webflux
+    - Built account and authentication services for legal consultation platform.
+    - Used MongoDB, Redis, and Spring WebFlux.
 
 <br><br>
 
@@ -132,11 +128,12 @@ Japanese
 ### Personal Project
 
 2022
-: [AIRSIX Webpage][airsix-webpage]
-<small>Sideproject to make website serving IPSC/USPSA based match result.</small>
-<small>Vue 3 for Frontend, Flask for Backend, and MongoDB for database</small>
-<small>Using github action, build docker images and upload them to github registry.</small>
-<small>Run 4 docker images on single AWS EC2 instance with docker compose.</small>
+: [AIRSIX Webpage][airsix-webpage](Currently not on service)
+<small>Sideproject to make website serving Competitve Shooting match result.</small>
+<small>Started with Vue 3 for Frontend, Flask for Backend, and MongoDB for database.</small>
+<small>Rebuilt with Vue 3 for Frontend, Spring MVC for Backend, and AWS RDS for database.</small>
+<small>Using github action, automatically build docker images and upload these to github registry.</small>
+<small>Run 4 -> 3 docker images on single AWS EC2 instance with docker compose.</small>
 
 2018
 
