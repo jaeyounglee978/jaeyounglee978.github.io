@@ -28,12 +28,10 @@ title: "Jaeyoung Lee CV"
 
 
 ### Skills
-- Java
-- Kotlin
-- Spring
-- Python
-- Typescript
-- Docker
+- 프로그래밍 언어: Java, Kotlin, Python, Typescript(약간)
+- 프레임워크: Spring, Spring Webflux, Django, Flask
+- 인프라: Docker
+- 모니터링 툴: Datadog, Pinpoint
 
 ### Career
 
@@ -51,12 +49,16 @@ title: "Jaeyoung Lee CV"
     - 처리 과정 중 중간에 실패하더라도 안전하도록 로직 구성
   - QA용 내부 툴 개발
 
+<br><br>
+
 - 현대 사내 서비스 A
   - 카프카와 Spring batch를 사용한 유저 기기 서비스 등록 및 알림 발송 로직 구현
     - 외부 API 연동 이슈와 유저의 로그인 플로우를 분리. 유저의 서비스 사용 경험 개선
     - 대량의 알림 발송을 위해 kafka 를 통한 비동기 알림 발송 구현. 알림 발송 대상 플랫폼 별 재시도 로직 구현
   - 사내 API 제공자들과의 적극적인 커뮤니케이션을 통한 요구사항 구현
   - 조직도, 홈화면 메뉴 노출/관리 로직 작업
+
+<br><br>
 
 - 현대 사내 서비스 B
   - Monolithic, Spring with Java21. With MongoDB
@@ -87,6 +89,7 @@ title: "Jaeyoung Lee CV"
     - MySQL과 MongoDB를 모두 사용하여 정형화된 유저 데이터 및 복잡한 의료 데이터 핸들링
     - Spring 외, 경량 서버 프레임워크인 ktor 를 도입. 적은 코드와 읽기 쉬운 구조로 유지보수가 용이한 프로그램 작성  
 
+<br><br>
 
 - 2020.11
 
@@ -95,16 +98,22 @@ title: "Jaeyoung Lee CV"
     - Redis를 사용한 JWT 베이스 유저 인증/인가 데이터 관리 
     - Kafka를 사용한 메세징 처리 기능 구현.
     
+<br><br>
+
   - Workflow 서비스(사내 사이드 프로젝트)
     - MongoDB, Redis, 코틀린 코루틴, Spring WebFlux, Apache Pulsar 를 사용한 delayed/periodic 작업 수행 시스템
     - 초당 1만 건이 넘는 HTTP 호출 작업을 스케줄링하여 실행시키는 성능 테스트 통과
     - 사내 타 서비스 지원(AFK 확인, 랭킹 호출 등)
+
+<br><br>
 
 - 2019.11
 
   - LINE ヘルスケア <small>([news][lineHealthCareNews])</small><small>Server Engineeer</small>
     - 마이크로 서비스 아키텍처로 운영된 서비스의 유저 인증 정보 처리 부분 담당.
     - Spring Webflux, Redis, MongoDB 사용
+
+<br><br>
 
   - LINE 弁護士相談 <small>([news][lineLaywerConsultNews])</small><small>Server Engineer </small>
     - 마이크로 서비스 아키텍처로 운영된 서비스의 유저 인증 정보 처리 부분 담당.
@@ -116,7 +125,7 @@ title: "Jaeyoung Lee CV"
 
 2013&ndash;2018
 
-: [Korea Advanced Institute of Science and Technology][kaist], 학사 졸업 \\
+: [Korea Advanced Institute of Science and Technology][kaist] (학사 졸업) \\
 - 물리학과, 전산학과 복수 전공
 
 <br><br>
@@ -162,7 +171,7 @@ Japanese
 
 2016&ndash;2017
 
-: KAIST Game development circle [HAJE][hajehp] Leader
+: KAIST Game development circle [HAJE][hajehp] 동아리 회장
 
 [kiaCpo]: https://cpo.kia.com
 [lineLaywerConsultNews]: https://linecorp.com/ja/pr/news/ja/2019/2987
