@@ -26,74 +26,89 @@ title: "Jaeyoung Lee CV"
   </div>
 </header>
 
+
+### Skills
+- Java
+- Kotlin
+- Spring
+- Python
+- Typescript
+- Docker
+
 ### Career
 
 2022.08.07 &ndash;
 
-: Ignite<small>Backend dev</small>\\
-<small>Java, Kotlin, Spring.</small>
+: 이그나이트<small>서버 개발자</small>\\
+<small>주요 키워드: Java, Kotlin, Spring</small>
 
 - [KIA CPO service][kiaCpo]
-  - Developed and maintained user-facing services and request data flows.
-  - Integrated external APIs to provide estimated car prices and managed request status throughout the purchase process.
-  - Implemented search functionality using Elasticsearch (AWS OpenSearch Service).
-  - Built internal tools to support QA processes.
+  - 기아 CPO 대고객 사이트 API 작업
+  - ElasticSearch를 사용한 대고객 사이트 검색 기능 구현
+  - 사용자 차량 가격 계산을 위한 외부 API 호출 작업. Spring AOP를 활용해 호출량 모니터링 로직 작업 
+  - 기아 CPO 어드민에서 엑셀을 사용한 매입 데이터 생성 처리
+    - 기획에서 요구한 새로운 유형의 차량 매입 플로우를 구현. batch를 이용한 데이터 처리
+    - 처리 과정 중 중간에 실패하더라도 안전하도록 로직 구성
+  - QA용 내부 툴 개발
 
-- Hyundai Internal Service 1
-  - Developed APIs for menu, user notifications, and organizational charts.
-  - Integrated Hyundai-provided APIs for internal web services.
-  - Implemented asynchronous notification delivery with Kafka and Spring Batch, including retry mechanisms.
+- 현대 사내 서비스 A
+  - 카프카와 Spring batch를 사용한 유저 기기 서비스 등록 및 알림 발송 로직 구현
+    - 외부 API 연동 이슈와 유저의 로그인 플로우를 분리. 유저의 서비스 사용 경험 개선
+    - 대량의 알림 발송을 위해 kafka 를 통한 비동기 알림 발송 구현. 알림 발송 대상 플랫폼 별 재시도 로직 구현
+  - 사내 API 제공자들과의 적극적인 커뮤니케이션을 통한 요구사항 구현
+  - 조직도, 홈화면 메뉴 노출/관리 로직 작업
 
-- Hyundai Internal Saas
+- 현대 사내 서비스 B
   - Monolithic, Spring with Java21. With MongoDB
 
 <br><br>
 
 2022.06.13 &ndash; 2023.07.28 &nbsp;&nbsp;&nbsp;
 
-: Bepro 11<small>Camera Infra Engineer</small>\\
-<small>Python, Data Processing Pipelines</small>
+: Bepro 11<small>카메라 인프라 엔지니어</small>\\
+<small>주요 키워드: Python, Data Processing Pipelines</small>
 
-- Managed camera infrastructure for automated football match recording and video processing.
-- Developed and maintained scripts to schedule recordings, retrieve files, run processing pipelines, and upload results.
-- Refactored scripts by modularizing logic and introducing multiprocessing/threading for efficiency.
-- Designed new scripts for services on Ubuntu-based systems, supporting new camera hardware.
-- Gained experience with HLS format and emphasized robust logging for debugging and error tracking.
+- Bepro 카메라 데이터 처리
+  - 경기장에 있는 카메라가 등록되어 있는 축구 경기 일정에 맞추어 자동으로 녹화를 시작하고, 고객에게 보여질 영상을 만드는 비디오 파이프라인에 데이터를 보내는 시스템 관리
+  - 기존에 동작하고 있던 스크립트의 로직을 재작성하여 기능별로 모듈화를 적용하였고, 시스템 효율을 위해 멀티프로세싱, 멀티스레딩 도입.
+  - 우분투 기반 시스템에서 동작하는 새로운 카메라 장치를 위한 신규 녹화 시스템 개발.
+  - HLS 비디오 포맷에 대한 경험. 디버깅 및 에러 추적을 위한 로깅 경험.
 
 <br><br>
 
 2019.01.21 &ndash; 2022.06.10 &nbsp;&nbsp;&nbsp;
 
-: NAVER<small>Server Engineer</small>\\
-<small>Java, Kotlin, Spring, MicroServices</small>
+: NAVER<small>서버 개발자</small>\\
+<small>주요 키워드: Java, Kotlin, Spring, MicroServices</small>
 
 - 2022.01
 
-  - Internal HealthCare Service
-    - Built services based on FHIR (medical data standard).
-    - Designed hybrid storage architecture using MySQL and MongoDB to handle complex medical records.
-    - Used Spring (Java/Kotlin) and Ktor as a lightweight server framework  .
+  - 사내 헬스케어 서비스 Internal HealthCare Service
+    - MySQL과 MongoDB를 모두 사용하여 정형화된 유저 데이터 및 복잡한 의료 데이터 핸들링
+    - Spring 외, 경량 서버 프레임워크인 ktor 를 도입. 적은 코드와 읽기 쉬운 구조로 유지보수가 용이한 프로그램 작성  
+
 
 - 2020.11
 
   - LINE ドクター <small>([news][lindDoctorNews])</small><small>Server Engineeer</small>
-    - Developed user authentication and account services within a microservice architecture.
-    - MySQL, Redis, Kafka, Spring.
-    - Implemented JWT-based authentication and authorization with Redis-backed token management.
+    - 마이크로 서비스 아키텍처로 운영된 서비스의 유저 인증 정보 처리 부분 담당.
+    - Redis를 사용한 JWT 베이스 유저 인증/인가 데이터 관리 
+    - Kafka를 사용한 메세징 처리 기능 구현.
     
-  - Side Project: Workflow Service
-    - Designed and implemented a delayed/periodic job execution system.
-    - Stack: MongoDB, Redis, Kotlin coroutines, Spring WebFlux, Apache Pulsar.
-    - Achieved throughput of 10,000+ scheduled HTTP jobs per second for internal services.
+  - Workflow 서비스(사내 사이드 프로젝트)
+    - MongoDB, Redis, 코틀린 코루틴, Spring WebFlux, Apache Pulsar 를 사용한 delayed/periodic 작업 수행 시스템
+    - 초당 1만 건이 넘는 HTTP 호출 작업을 스케줄링하여 실행시키는 성능 테스트 통과
+    - 사내 타 서비스 지원(AFK 확인, 랭킹 호출 등)
 
 - 2019.11
 
   - LINE ヘルスケア <small>([news][lineHealthCareNews])</small><small>Server Engineeer</small>
-    - Developed authentication and account management services using MongoDB, Redis, and Spring WebFlux.
+    - 마이크로 서비스 아키텍처로 운영된 서비스의 유저 인증 정보 처리 부분 담당.
+    - Spring Webflux, Redis, MongoDB 사용
 
   - LINE 弁護士相談 <small>([news][lineLaywerConsultNews])</small><small>Server Engineer </small>
-    - Built account and authentication services for legal consultation platform.
-    - Used MongoDB, Redis, and Spring WebFlux.
+    - 마이크로 서비스 아키텍처로 운영된 서비스의 유저 인증 정보 처리 부분 담당.
+    - Spring Webflux, Redis, MongoDB 사용
 
 <br><br>
 
@@ -101,19 +116,12 @@ title: "Jaeyoung Lee CV"
 
 2013&ndash;2018
 
-: [Korea Advanced Institute of Science and Technology][kaist], the Bachelor of Science \\
-<small>Double Major in Physics and Computer Science</small>
-
-2010&ndash;2012
-
-: Graduate [Suji High school][sjhs]
-
-[kaist]: http://www.kaist.ac.kr/
-[sjhs]: http://www.suji.hs.kr/main.php
+: [Korea Advanced Institute of Science and Technology][kaist], 학사 졸업 \\
+- 물리학과, 전산학과 복수 전공
 
 <br><br>
 
-### Language Skills
+### 언어 능력
 
 English
 
@@ -129,30 +137,24 @@ Japanese
 
 2022
 : [AIRSIX Webpage][airsix-webpage](Currently not on service)
-<small>Sideproject to make website serving Competitve Shooting match result.</small>
-<small>Started with Vue 3 for Frontend, Flask for Backend, and MongoDB for database.</small>
-<small>Rebuilt with Vue 3 for Frontend, Spring MVC for Backend, and AWS RDS for database.</small>
-<small>Using github action, automatically build docker images and upload these to github registry.</small>
-<small>Run 4 -> 3 docker images on single AWS EC2 instance with docker compose.</small>
+- 사격 스포츠 점수 기록 및 공유를 위한 웹사이트 사이드 프로젝트.
+- 최초 시작은 Vue3 로 프론트 작업, Flask 로 백엔드, MongoDB 를 데이터베이스로 잡아 서비스 개발.
+- 이후 서버를 Kotlin Spring MVC 로 재작업하였으며, AWS RDS 로 데이터베이스 변경.
+  - EC2 인스턴스를 좀 더 낮은 사양으로 사용하는 것 + 당시 사용하던 데이터 구조가 mongoDB를 운영하여 얻는 이점이 없다고 판단. AWS에서 제공해주는 자동 DB 백업 기능을 활용. 
+- 깃헙 액션을 사용하여 자동으로 도커 이미지를 제작하고, 이를 깃헙 레지스트리에 업로드하여 사용.
+- EC2 인스턴스 한대에 frontend, backend, mongoDB, 인증서 갱신을 위한 letsencrypt 까지 네개의 컨테이너로 운영. 이후 DB를 제거한 3개의 컨테이너로 운영 
 
-2018
-
-: [MobileRunner][mobilerunner] as toyproject <small>([movie][mobileRunnerMovie])</small>\\
-<small>Game design, Programmer</small>
 
 2017
 
-: [Paladin who believes in God(DiscardedWarlock)][diswarlock] for 2017 summer GGGGJ <small>([movie][paladinMovie])</small>\\
-<small>Game design. Programmer</small>\\
-[Chain Bomb][chainbomb] for HAJE autumn GameJam \\
-<small>Game design, Programmer</small> \\
-[2017 AI Game][2017aigame] for KAIST-POSTECH science war <small>([movie][2017aigamemovie])</small>\\
-<small>External negotiation</small>
+: [Paladin who believes in God(DiscardedWarlock)][diswarlock]. 2017 여름 GGGGJ <small>([movie][paladinMovie])</small>\\
+<small>게임 디자인, 프로그래머</small>\\
+
 
 2016
 
 : [Pray][pray]<small>(private link) ([movie][prayMovie])</small> \\
-<small>Programmer</small>
+<small>프로그래머</small>
 
 <br><br>
 
