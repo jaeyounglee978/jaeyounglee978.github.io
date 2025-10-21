@@ -28,96 +28,98 @@ title: "Jaeyoung Lee CV"
 
 
 ### Skills
-- 프로그래밍 언어: Java, Kotlin, Python, Typescript(약간)
-- 프레임워크: Spring, Spring Webflux, Django, Flask
-- 인프라: Docker
-- 모니터링 툴: Datadog, Pinpoint
+- Languag: Java, Kotlin, Python, Typescript(약간)
+- Framework: Spring, Spring Webflux, Django, Flask
+- Infra: Docker
+- Monitoring tool: Datadog, Pinpoint
 
 ### Career
 
 2022.08.07 &ndash;
 
-: 이그나이트<small>서버 개발자</small>\\
-<small>주요 키워드: Java, Kotlin, Spring</small>
+: IGNITEE<small>Backend Engineeer</small>\\
+<small>Main keywords: Java, Kotlin, Spring</small>
 
 - [KIA CPO service][kiaCpo]
-  - 기아 CPO 대고객 사이트 API 작업
-  - ElasticSearch를 사용한 대고객 사이트 검색 기능 구현
-  - 사용자 차량 가격 계산을 위한 외부 API 호출 작업. Spring AOP를 활용해 호출량 모니터링 로직 작업 
-  - 기아 CPO 어드민에서 엑셀을 사용한 매입 데이터 생성 처리
-    - 기획에서 요구한 새로운 유형의 차량 매입 플로우를 구현. batch를 이용한 데이터 처리
-    - 처리 과정 중 중간에 실패하더라도 안전하도록 로직 구성
-  - QA용 내부 툴 개발
+  - Developed APIs for Kia CPO customer-facing website
+  - Implemented customer search functionality using ElasticSearch
+  - Integrated external API for user vehicle price calculation; implemented call volume monitoring logic using Spring AOP
+  - Processed vehicle acquisition data creation via Excel in the Kia CPO admin system
+    - Implemented a new type of vehicle acquisition flow requested by planning, using batch processing for data
+    - Designed robust logic for safe recovery from intermediate failures during processing
+   - Developed an internal QA tool
 
 <br><br>
 
-- 현대 사내 서비스 A
-  - 카프카와 Spring batch를 사용한 유저 기기 서비스 등록 및 알림 발송 로직 구현
-    - 외부 API 연동 이슈와 유저의 로그인 플로우를 분리. 유저의 서비스 사용 경험 개선
-    - 대량의 알림 발송을 위해 kafka 를 통한 비동기 알림 발송 구현. 알림 발송 대상 플랫폼 별 재시도 로직 구현
-  - 사내 API 제공자들과의 적극적인 커뮤니케이션을 통한 요구사항 구현
-  - 조직도, 홈화면 메뉴 노출/관리 로직 작업
+- Hyundai Internal Service A
+   - Implemented user device registration and notification logic using Kafka and Spring Batch
+     - Decoupled external API integration issues from the user login flow, improving user service experience
+     - Implemented asynchronous mass notification via Kafka, including platform-specific retry logic for delivery targets
+   - Implemented requirements through active communication with internal API providers
+   - Developed logic for organization chart and home screen menu display/management
+ - Hyundai Internal Service B
+   - Monolithic, Spring with Java21. With MongoDB
 
 <br><br>
 
-- 현대 사내 서비스 B
+- Hyundai Internal Service B
   - Monolithic, Spring with Java21. With MongoDB
 
 <br><br>
 
 2022.06.13 &ndash; 2023.07.28 &nbsp;&nbsp;&nbsp;
 
-: Bepro 11<small>카메라 인프라 엔지니어</small>\\
-<small>주요 키워드: Python, Data Processing Pipelines</small>
+: Bepro 11<small>Camera Infra Engineer</small>\\
+<small>Main keywords: Python, Data Processing Pipelines</small>
 
-- Bepro 카메라 데이터 처리
-  - 경기장에 있는 카메라가 등록되어 있는 축구 경기 일정에 맞추어 자동으로 녹화를 시작하고, 고객에게 보여질 영상을 만드는 비디오 파이프라인에 데이터를 보내는 시스템 관리
-  - 기존에 동작하고 있던 스크립트의 로직을 재작성하여 기능별로 모듈화를 적용하였고, 시스템 효율을 위해 멀티프로세싱, 멀티스레딩 도입.
-  - 우분투 기반 시스템에서 동작하는 새로운 카메라 장치를 위한 신규 녹화 시스템 개발.
-  - HLS 비디오 포맷에 대한 경험. 디버깅 및 에러 추적을 위한 로깅 경험.
+ - Bepro Camera Data Processing
+   - Managed a system that automatically starts recording based on registered soccer schedules, sending data to the video pipeline for customer-facing video creation
+   - Refactored existing script logic for functional modularization; introduced multiprocessing and multithreading for system efficiency.
+   - Developed a new recording system for new camera devices operating on Ubuntu-based systems.
+   - Experience with HLS video format, and logging for debugging and error tracing.
 
 <br><br>
 
 2019.01.21 &ndash; 2022.06.10 &nbsp;&nbsp;&nbsp;
 
-: NAVER<small>서버 개발자</small>\\
-<small>주요 키워드: Java, Kotlin, Spring, MicroServices</small>
+: NAVER<small>Backend Engineer</small>\\
+<small>Main keywords: Java, Kotlin, Spring, MicroServices</small>
 
 - 2022.01
 
-  - 사내 헬스케어 서비스 Internal HealthCare Service
-    - MySQL과 MongoDB를 모두 사용하여 정형화된 유저 데이터 및 복잡한 의료 데이터 핸들링
-    - Spring 외, 경량 서버 프레임워크인 ktor 를 도입. 적은 코드와 읽기 쉬운 구조로 유지보수가 용이한 프로그램 작성  
+   - Internal HealthCare Service
+     - Handled structured user data and complex medical data using both MySQL and MongoDB
+     - Introduced Ktor (lightweight server framework) alongside Spring; wrote maintainable programs with cleaner code and structure
 
 <br><br>
 
 - 2020.11
 
   - LINE ドクター <small>([news][lindDoctorNews])</small><small>Server Engineeer</small>
-    - 마이크로 서비스 아키텍처로 운영된 서비스의 유저 인증 정보 처리 부분 담당.
-    - Redis를 사용한 JWT 베이스 유저 인증/인가 데이터 관리 
-    - Kafka를 사용한 메세징 처리 기능 구현.
+     - Managed user authentication information processing within a service operated with Microservice Architecture.
+     - Managed JWT-based user authentication/authorization data using Redis
+     - Implemented messaging processing functionality using Kafka.
     
 <br><br>
 
-  - Workflow 서비스(사내 사이드 프로젝트)
-    - MongoDB, Redis, 코틀린 코루틴, Spring WebFlux, Apache Pulsar 를 사용한 delayed/periodic 작업 수행 시스템
-    - 초당 1만 건이 넘는 HTTP 호출 작업을 스케줄링하여 실행시키는 성능 테스트 통과
-    - 사내 타 서비스 지원(AFK 확인, 랭킹 호출 등)
+ - Workflow Service (Internal Side Project)
+   - Developed a system for delayed/periodic task execution using MongoDB, Redis, Kotlin Coroutines, Spring WebFlux, and Apache Pulsar
+   - Passed performance tests, scheduling and executing over 10,000 HTTP call tasks per second
+   - Supported other internal services (e.g., AFK check, ranking calls)
 
 <br><br>
 
 - 2019.11
 
   - LINE ヘルスケア <small>([news][lineHealthCareNews])</small><small>Server Engineeer</small>
-    - 마이크로 서비스 아키텍처로 운영된 서비스의 유저 인증 정보 처리 부분 담당.
-    - Spring Webflux, Redis, MongoDB 사용
+     - Managed user authentication information processing within a service operated with Microservice Architecture.
+     - Used Spring Webflux, Redis, MongoDB
 
 <br><br>
 
   - LINE 弁護士相談 <small>([news][lineLaywerConsultNews])</small><small>Server Engineer </small>
-    - 마이크로 서비스 아키텍처로 운영된 서비스의 유저 인증 정보 처리 부분 담당.
-    - Spring Webflux, Redis, MongoDB 사용
+    - Managed user authentication information processing within a service operated with Microservice Architecture.
+    - Used Spring Webflux, Redis, MongoDB
 
 <br><br>
 
@@ -125,12 +127,12 @@ title: "Jaeyoung Lee CV"
 
 2013&ndash;2018
 
-: [Korea Advanced Institute of Science and Technology][kaist] (학사 졸업) \\
-- 물리학과, 전산학과 복수 전공
+: [Korea Advanced Institute of Science and Technology][kaist] (B.S. Degree) \\
+- Major in Physics, Double Major in Computer Science
 
 <br><br>
 
-### 언어 능력
+### Language Skill
 
 English
 
@@ -146,24 +148,24 @@ Japanese
 
 2022
 : [AIRSIX Webpage][airsix-webpage](Currently not on service)
-- 사격 스포츠 점수 기록 및 공유를 위한 웹사이트 사이드 프로젝트.
-- 최초 시작은 Vue3 로 프론트 작업, Flask 로 백엔드, MongoDB 를 데이터베이스로 잡아 서비스 개발.
-- 이후 서버를 Kotlin Spring MVC 로 재작업하였으며, AWS RDS 로 데이터베이스 변경.
-  - EC2 인스턴스를 좀 더 낮은 사양으로 사용하는 것 + 당시 사용하던 데이터 구조가 mongoDB를 운영하여 얻는 이점이 없다고 판단. AWS에서 제공해주는 자동 DB 백업 기능을 활용. 
-- 깃헙 액션을 사용하여 자동으로 도커 이미지를 제작하고, 이를 깃헙 레지스트리에 업로드하여 사용.
-- EC2 인스턴스 한대에 frontend, backend, mongoDB, 인증서 갱신을 위한 letsencrypt 까지 네개의 컨테이너로 운영. 이후 DB를 제거한 3개의 컨테이너로 운영 
+ - A website side project for recording and sharing scores for shooting sports.
+ - Initially developed the service with Vue3 for frontend, Flask for backend, and MongoDB as the database.
+ - Later refactored the server to Kotlin Spring MVC and changed the database to AWS RDS.
+   - Used a lower-spec EC2 instance and switched from MongoDB to AWS RDS, utilizing its automatic backup feature, as the existing data structure did not benefit from a NoSQL database.
+ - Used GitHub Actions to automatically build and upload Docker images to the GitHub Registry.
+ - Operated with four containers on a single EC2 instance: frontend, backend, MongoDB, and Let's Encrypt for certificate renewal. Later reduced to three containers after removing the DB.
 
 
 2017
 
 : [Paladin who believes in God(DiscardedWarlock)][diswarlock]. 2017 여름 GGGGJ <small>([movie][paladinMovie])</small>\\
-<small>게임 디자인, 프로그래머</small>\\
+<small>Game design, Programmer</small>\\
 
 
 2016
 
 : [Pray][pray]<small>(private link) ([movie][prayMovie])</small> \\
-<small>프로그래머</small>
+<small>Programmer</small>
 
 <br><br>
 
@@ -171,7 +173,7 @@ Japanese
 
 2016&ndash;2017
 
-: KAIST Game development circle [HAJE][hajehp] 동아리 회장
+: KAIST Game development circle [HAJE][hajehp] Club President
 
 [kiaCpo]: https://cpo.kia.com
 [lineLaywerConsultNews]: https://linecorp.com/ja/pr/news/ja/2019/2987
