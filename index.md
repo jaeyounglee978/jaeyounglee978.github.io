@@ -28,7 +28,7 @@ title: "Jaeyoung Lee CV"
 
 
 ### Skills
-- Language: Java, Kotlin, Python, Typescript(약간)
+- Language: Java, Kotlin, Python, Typescript(a little bit)
 - Framework: Spring, Spring Webflux, Django, Flask
 - Infra: Docker
 - Monitoring tool: Datadog, Pinpoint
