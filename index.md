@@ -28,7 +28,7 @@ title: "Jaeyoung Lee CV"
 
 
 ### Skills
-- Languag: Java, Kotlin, Python, Typescript(약간)
+- Language: Java, Kotlin, Python, Typescript(약간)
 - Framework: Spring, Spring Webflux, Django, Flask
 - Infra: Docker
 - Monitoring tool: Datadog, Pinpoint
@@ -37,16 +37,15 @@ title: "Jaeyoung Lee CV"
 
 2022.08.07 &ndash;
 
-: IGNITEE<small>Backend Engineeer</small>\\
+: IGNITE<small>Backend Engineeer</small>\\
 <small>Main keywords: Java, Kotlin, Spring</small>
 
 - [KIA CPO service][kiaCpo]
   - Developed APIs for Kia CPO customer-facing website
   - Implemented customer search functionality using ElasticSearch
   - Integrated external API for user vehicle price calculation; implemented call volume monitoring logic using Spring AOP
-  - Processed vehicle acquisition data creation via Excel in the Kia CPO admin system
-    - Implemented a new type of vehicle acquisition flow requested by planning, using batch processing for data
-    - Designed robust logic for safe recovery from intermediate failures during processing
+  - Processed vehicle purchase data creation via Excel in the Kia CPO admin system
+    - Implemented a new type of vehicle purchase flow requested by planning, using batch processing for data
    - Developed an internal QA tool
 
 <br><br>
@@ -57,8 +56,6 @@ title: "Jaeyoung Lee CV"
      - Implemented asynchronous mass notification via Kafka, including platform-specific retry logic for delivery targets
    - Implemented requirements through active communication with internal API providers
    - Developed logic for organization chart and home screen menu display/management
- - Hyundai Internal Service B
-   - Monolithic, Spring with Java21. With MongoDB
 
 <br><br>
 
@@ -73,7 +70,7 @@ title: "Jaeyoung Lee CV"
 <small>Main keywords: Python, Data Processing Pipelines</small>
 
  - Bepro Camera Data Processing
-   - Managed a system that automatically starts recording based on registered soccer schedules, sending data to the video pipeline for customer-facing video creation
+   - Managed a system that automatically starts recording based on registered football match schedules, sending data to the video pipeline for customer-facing video creation
    - Refactored existing script logic for functional modularization; introduced multiprocessing and multithreading for system efficiency.
    - Developed a new recording system for new camera devices operating on Ubuntu-based systems.
    - Experience with HLS video format, and logging for debugging and error tracing.
